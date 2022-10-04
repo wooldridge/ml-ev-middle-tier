@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10065</personId>
+  <nameGroup>
+    <givenname>
+      <value>Brock</value>
+    </givenname>
+    <surname>
+      <value>Tembridge</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Tembridge Brock</value>
+      <source>
+        <name>New York Times</name>
+        <ts>2017-05-18T01:41:02Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-07-31T13:43:05Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-09-21T14:31:05Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>pbluck0@oakley.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>325-625-4554</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>mmurphey0@about.me</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>408-923-7053</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>226-210-6141</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>897-17-2184</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-11-01T03:26:33Z</ts>
+        <uploadedBy>esymington0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2017-06-26T12:57:13Z</ts>
+        <uploadedBy>sflucker0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-04-01T10:27:49Z</ts>
+        <uploadedBy>bdezamudio0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>849 Scoville Alley</street>
+      <city>San Jose</city>
+      <state>CA</state>
+      <postal>95108</postal>
+      <country>United States</country>
+      <latitude>37.3378</latitude>
+      <longitude>-121.8908</longitude>
+    </address>
+    <address>
+      <street>91310 Pearson Road</street>
+      <city>Montgomery</city>
+      <state>AL</state>
+      <postal>36134</postal>
+      <country>United States</country>
+      <latitude>32.2334</latitude>
+      <longitude>-86.2085</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Canadian College of Business &amp; Computers</name>
+      <city>Maple Creek</city>
+      <state>SK</state>
+      <postal>P3L</postal>
+      <latitude>49.91678</latitude>
+      <longitude>-109.48481</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-10-14T11:52:52Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-04-24T00:15:22Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Indiana University-Purdue University at Indianapolis</name>
+      <city>Rochester</city>
+      <state>NY</state>
+      <postal>14652</postal>
+      <latitude>43.15</latitude>
+      <longitude>-77.63</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-04-26T22:03:31Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-08-13T13:43:53Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2021-09-14T11:21:44Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2012-12-17T20:32:46Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2020-08-13T22:53:27Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10068.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Mil Loren</fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10028.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>MacAndie Haywood</fullname>
+      <city>Omaha</city>
+      <state>NE</state>
+    </relation>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Crofts Kally</fullname>
+      <city>Evansville</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10072.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</imageSrc>
+      <fullname>Falk Taryn</fullname>
+      <city>Baton Rouge</city>
+      <state>LA</state>
+    </relation>
+    <relation>
+      <id>/person/10004.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Morriarty Anatol</fullname>
+      <city>Virginia Beach</city>
+      <state>VA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-01T02:40:43Z</ts>
+    <user>btembridge1s</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-23T13:15:22Z</ts>
+    <user>btembridge1s</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>aclendennen0</handle>
+      <address>http://bandcamp.com/ut/blandit/non.xml</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>jtoffolo1</handle>
+      <address>https://opera.com/integer.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-16</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-14</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-16</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-01-31</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://studiopress.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://github.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://networkadvertising.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Eayo</place>
+      <predplace>transferredTo Eayo</predplace>
+      <ts>2013-03-26T10:01:33Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-07T08:29:08Z</ts>
+        <createdBy>Susette Mullins</createdBy>
+        <approvedBy>Michele Gayter</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Yombu</place>
+      <predplace>transferredTo Yombu</predplace>
+      <ts>2014-10-10T04:04:51Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-08T03:50:32Z</ts>
+        <createdBy>Bud Isacoff</createdBy>
+        <approvedBy>Sonny Pardew</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Vietnam</place>
+      <predplace>livedIn Vietnam</predplace>
+      <end>2017-12-31T14:53:23Z</end>
+      <start>2016-01-19T09:29:05Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://cornell.edu</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://php.net</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://oracle.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

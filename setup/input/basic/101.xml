@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <id>101</id>
+    <name>
+        <first>John</first>
+        <last>Smith</last>
+    </name>
+    <address>
+        <street>15135 Gale Pass</street>
+        <city>Oakland</city>
+        <state>CA</state>
+        <postal>94627</postal>
+        <country>United States</country>
+        <latitude>37.6802</latitude>
+        <longitude>-121.9215</longitude>
+    </address>
+    <created>2022-05-01T08:00:00Z</created>
+    <status>active</status>
+    <sem:triples xmlns:sem="http://marklogic.com/semantics">
+        <sem:triple>
+            <sem:subject datatype="http://www.w3.org/2001/XMLSchema#string">John Smith</sem:subject>
+            <sem:predicate datatype="http://www.w3.org/2001/XMLSchema#string">marriedTo</sem:predicate>
+            <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Jane Doe</sem:object>
+        </sem:triple>
+        <sem:triple>
+            <sem:subject datatype="http://www.w3.org/2001/XMLSchema#string">John Smith</sem:subject>
+            <sem:predicate datatype="http://www.w3.org/2001/XMLSchema#string">fatherOf</sem:predicate>
+            <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">John Smith Jr.</sem:object>
+        </sem:triple>
+    </sem:triples>
+</person>

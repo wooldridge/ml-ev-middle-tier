@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10008</personId>
+  <nameGroup>
+    <givenname>
+      <value>Laverna</value>
+    </givenname>
+    <surname>
+      <value>Dell Casa</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Dell Casa Laverna</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-05-05T18:29:48Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2016-02-21T02:12:36Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-04-12T00:50:25Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>cineson0@illinois.edu</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>rpett1@dropbox.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>jblack2@list-manage.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>826-513-2277</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>odibiasi0@washington.edu</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>884-796-0258</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>509-285-0636</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>684-37-4371</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2016-04-27T15:26:35Z</ts>
+        <uploadedBy>rboreham0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>23 Division Parkway</street>
+      <city>Lake Charles</city>
+      <state>LA</state>
+      <postal>70607</postal>
+      <country>United States</country>
+      <latitude>30.1244</latitude>
+      <longitude>-93.1835</longitude>
+    </address>
+    <address>
+      <street>0 Golden Leaf Hill</street>
+      <city>Durham</city>
+      <state>NC</state>
+      <postal>27705</postal>
+      <country>United States</country>
+      <latitude>36.0218</latitude>
+      <longitude>-78.9478</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Baja California</name>
+      <city>Benito Juarez</city>
+      <state>NLE</state>
+      <postal>66410</postal>
+      <latitude>22.2016816</latitude>
+      <longitude>-97.8367954</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-05-20T01:17:20Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-03-18T22:44:24Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Northern Arizona University</name>
+      <city>Battle Creek</city>
+      <state>MI</state>
+      <postal>49018</postal>
+      <latitude>42.319384</latitude>
+      <longitude>-85.1872878</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-09-01T01:58:07Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-01-18T21:38:36Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2021-01-22T08:07:12Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Pantone Jedidiah</fullname>
+      <city>Brooklyn</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10045.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Hullah Arie</fullname>
+      <city>Shreveport</city>
+      <state>LA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-26T22:58:35Z</ts>
+    <user>ldellcasa7</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-22T06:36:57Z</ts>
+    <user>ldellcasa7</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>bheather0</handle>
+      <address>http://walmart.com/tellus/semper/interdum/mauris/ullamcorper/purus.js</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>cleeming1</handle>
+      <address>http://dailymotion.com/iaculis/diam/erat/fermentum.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-14</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://flavors.me</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://sfgate.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://rediff.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Thoughtstorm</place>
+      <predplace>endedAt Thoughtstorm</predplace>
+      <ts>2016-02-17T16:17:40Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-05-01T21:23:54Z</ts>
+        <createdBy>Miran Stopforth</createdBy>
+        <approvedBy>Florie Whitemarsh</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Voomm</place>
+      <predplace>endedAt Voomm</predplace>
+      <ts>2013-04-06T09:33:25Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-13T08:55:36Z</ts>
+        <createdBy>Franciska Trigg</createdBy>
+        <approvedBy>Dare Hawkey</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Browsedrive</place>
+      <predplace>transferredTo Browsedrive</predplace>
+      <ts>2017-06-21T02:14:20Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-16T01:54:45Z</ts>
+        <createdBy>Oralle Presnall</createdBy>
+        <approvedBy>Shela Grancher</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tagfeed</place>
+      <predplace>endedAt Tagfeed</predplace>
+      <ts>2016-07-28T04:21:01Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-09-25T17:57:40Z</ts>
+        <createdBy>Gayla Dudin</createdBy>
+        <approvedBy>Fan Edes</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Twitterbeat</place>
+      <predplace>transferredTo Twitterbeat</predplace>
+      <ts>2017-09-29T18:12:42Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-03-03T18:13:52Z</ts>
+        <createdBy>Nerte Ridgedell</createdBy>
+        <approvedBy>Dede Haizelden</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Nicaragua</place>
+      <predplace>visited Nicaragua</predplace>
+      <end>2018-09-30T12:04:30Z</end>
+      <start>2014-08-22T09:06:09Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://phpbb.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://dyndns.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://comcast.net</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

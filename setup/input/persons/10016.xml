@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10016</personId>
+  <nameGroup>
+    <givenname>
+      <value>Veronica</value>
+    </givenname>
+    <surname>
+      <value>Patek</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Patek Veronica</value>
+      <source>
+        <name>New York Times</name>
+        <ts>2017-04-27T04:13:50Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-10-09T00:21:08Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-31T05:50:48Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dcostall0@ifeng.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bcaunter1@blogtalkradio.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>fmendenhall2@godaddy.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>747-992-3606</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>965-694-8420</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>367-870-8522</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>139-145-0925</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>361-17-2908</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-12-14T08:48:02Z</ts>
+        <uploadedBy>tmunning0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2014-11-12T08:04:26Z</ts>
+        <uploadedBy>odosdale0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>67249 Namekagon Terrace</street>
+      <city>Milwaukee</city>
+      <state>WI</state>
+      <postal>53220</postal>
+      <country>United States</country>
+      <latitude>42.9559</latitude>
+      <longitude>-87.9933</longitude>
+    </address>
+    <address>
+      <street>84 Sunfield Drive</street>
+      <city>Wilmington</city>
+      <state>NC</state>
+      <postal>28410</postal>
+      <country>United States</country>
+      <latitude>34.0881</latitude>
+      <longitude>-77.8526</longitude>
+    </address>
+    <address>
+      <street>85450 Hayes Hill</street>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <postal>98687</postal>
+      <country>United States</country>
+      <latitude>45.8016</latitude>
+      <longitude>-122.5203</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad México Internacional</name>
+      <city>La Palma</city>
+      <state>MEX</state>
+      <postal>52600</postal>
+      <latitude>19.5576165</latitude>
+      <longitude>-99.1393889</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-01-11T22:36:09Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2017-06-19T03:21:21Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10087.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Southby Herbie</fullname>
+      <city>San Diego</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10014.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Cockill Torr</fullname>
+      <city>Nashville</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10048.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Schwerin Salomone</fullname>
+      <city>Alhambra</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-08T01:58:30Z</ts>
+    <user>vpatekf</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-15T05:03:37Z</ts>
+    <user>vpatekf</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>ebedson0</handle>
+      <address>http://godaddy.com/est/donec.xml</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle/>
+      <address>http://arizona.edu/vivamus/tortor/duis/mattis/egestas/metus/aenean.js</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-07</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-20</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-02</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://army.mil</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://xinhuanet.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://rambler.ru</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Thoughtworks</place>
+      <predplace>startedAt Thoughtworks</predplace>
+      <ts>2014-12-16T17:39:22Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-02-06T02:36:45Z</ts>
+        <createdBy>Dyane Phittiplace</createdBy>
+        <approvedBy>Babs Viggars</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yakijo</place>
+      <predplace>endedAt Yakijo</predplace>
+      <ts>2019-02-02T06:16:08Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-08-19T18:18:46Z</ts>
+        <createdBy>Nefen Machon</createdBy>
+        <approvedBy>Sonni Boullen</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Layo</place>
+      <predplace>endedAt Layo</predplace>
+      <ts>2014-04-14T21:19:42Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-09-13T18:31:26Z</ts>
+        <createdBy>Glenden Rentilll</createdBy>
+        <approvedBy>Virginia Smales</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Livefish</place>
+      <predplace>startedAt Livefish</predplace>
+      <ts>2017-02-01T08:56:20Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-05-05T19:51:03Z</ts>
+        <createdBy>Rachele Durand</createdBy>
+        <approvedBy>Whit Aughtie</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Greece</place>
+      <predplace>servedIn Greece</predplace>
+      <end>2018-02-03T01:19:20Z</end>
+      <start>2015-09-03T09:48:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://usgs.gov</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://cam.ac.uk</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://microsoft.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10079</personId>
+  <nameGroup>
+    <givenname>
+      <value>Ravid</value>
+    </givenname>
+    <surname>
+      <value>Sumpton</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Sumpton Ravid</value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2019-12-12T02:17:05Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-10-24T20:03:37Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>nmauditt0@va.gov</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mlapadula1@ovh.net</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>kflageul2@over-blog.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>655-808-1176</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>rmaccoughan0@utexas.edu</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>778-162-4804</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>ccarbery2@upenn.edu</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>401-43-0901</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-11-05T19:57:25Z</ts>
+        <uploadedBy>dinnwood0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2011-11-09T18:36:50Z</ts>
+        <uploadedBy>mbathoe0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-08-11T23:04:39Z</ts>
+        <uploadedBy>falejandro0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>47 Pearson Hill</street>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20591</postal>
+      <country>United States</country>
+      <latitude>38.8933</latitude>
+      <longitude>-77.0146</longitude>
+    </address>
+    <address>
+      <street>255 Schiller Parkway</street>
+      <city>Columbia</city>
+      <state>SC</state>
+      <postal>29203</postal>
+      <country>United States</country>
+      <latitude>34.0635</latitude>
+      <longitude>-81.0265</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>California Lutheran University</name>
+      <city>Johnson City</city>
+      <state>TN</state>
+      <postal>37605</postal>
+      <latitude>36.31</latitude>
+      <longitude>-82.35</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-03-02T09:47:52Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-03-28T16:37:35Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad de las Américas</name>
+      <city>San Isidro</city>
+      <state>GUA</state>
+      <postal>36450</postal>
+      <latitude>19.2573848</latitude>
+      <longitude>-99.0149647</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-01-22T10:09:37Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-12-04T13:18:38Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2015-05-08T12:14:55Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2017-11-26T14:50:17Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-08-28T01:01:34Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10029.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Jozefiak Gianna</fullname>
+      <city>Houston</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10039.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Killelay Selene</fullname>
+      <city>Riverside</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10076.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Morfett Minnaminnie</fullname>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-18T23:42:22Z</ts>
+    <user>rsumpton26</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-25T16:53:35Z</ts>
+    <user>rsumpton26</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-06</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://chron.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://mysql.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://bbc.co.uk</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Yakijo</place>
+      <predplace>transferredTo Yakijo</predplace>
+      <ts>2020-01-11T01:40:21Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-07-04T06:02:23Z</ts>
+        <createdBy>Adaline Lovart</createdBy>
+        <approvedBy>Happy Goricke</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Rhynyx</place>
+      <predplace>movedTo Rhynyx</predplace>
+      <ts>2012-12-21T02:20:26Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-07-22T18:05:43Z</ts>
+        <createdBy>Dona Dalling</createdBy>
+        <approvedBy>Ainslie Lomis</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Eare</place>
+      <predplace>movedTo Eare</predplace>
+      <ts>2015-02-15T03:50:01Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-11-08T15:20:39Z</ts>
+        <createdBy>Den Arington</createdBy>
+        <approvedBy>Gabie Hosten</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Twiyo</place>
+      <predplace>transferredTo Twiyo</predplace>
+      <ts>2017-12-15T18:43:43Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2022-02-25T02:08:48Z</ts>
+        <createdBy>Morganne Skowcraft</createdBy>
+        <approvedBy>Skippie Peddel</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Cogibox</place>
+      <predplace>movedTo Cogibox</predplace>
+      <ts>2019-05-04T14:53:44Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-11-17T12:07:07Z</ts>
+        <createdBy>Oralle Nutbeem</createdBy>
+        <approvedBy>Coraline Rickets</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Brazil</place>
+      <predplace>servedIn Brazil</predplace>
+      <end>2017-12-18T03:01:55Z</end>
+      <start>2014-02-23T03:10:39Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://odnoklassniki.ru</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://infoseek.co.jp</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://vkontakte.ru</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

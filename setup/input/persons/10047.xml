@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10047</personId>
+  <nameGroup>
+    <givenname>
+      <value>Buffy</value>
+    </givenname>
+    <surname>
+      <value>Brunker</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Brunker Buffy</value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-04-16T21:27:19Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>wgoodswen0@macromedia.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>lmort1@msu.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>651-917-9012</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>etims0@pagesperso-orange.fr</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>spury1@walmart.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>swoodcock2@noaa.gov</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>119-09-6448</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-04-30T11:59:55Z</ts>
+        <uploadedBy>acopper0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2019-08-11T15:58:19Z</ts>
+        <uploadedBy>gcothey0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-10-05T17:00:32Z</ts>
+        <uploadedBy>vrittmeyer0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2014-06-24T03:41:35Z</ts>
+        <uploadedBy>mweitzel0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>88498 Old Gate Center</street>
+      <city>Midland</city>
+      <state>MI</state>
+      <postal>48670</postal>
+      <country>United States</country>
+      <latitude>43.6375</latitude>
+      <longitude>-84.2568</longitude>
+    </address>
+    <address>
+      <street>7299 Surrey Hill</street>
+      <city>Northridge</city>
+      <state>CA</state>
+      <postal>91328</postal>
+      <country>United States</country>
+      <latitude>33.7866</latitude>
+      <longitude>-118.2987</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Baja California</name>
+      <city>El Rosario</city>
+      <state>JAL</state>
+      <postal>47849</postal>
+      <latitude>30.059549</latitude>
+      <longitude>-115.725753</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-10-12T01:00:38Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-11-28T11:04:29Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad de Monterrey</name>
+      <city>Emiliano Zapata</city>
+      <state>OAX</state>
+      <postal>70805</postal>
+      <latitude>16.3317796</latitude>
+      <longitude>-96.5943562</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-02-14T04:05:01Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2016-05-09T08:27:46Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2016-05-12T23:51:48Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10093.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Melarkey Marita</fullname>
+      <city>Warren</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10054.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Evamy Odelia</fullname>
+      <city>Lansing</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10029.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Jozefiak Gianna</fullname>
+      <city>Houston</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-20T00:09:46Z</ts>
+    <user>bbrunker1a</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-07T12:32:45Z</ts>
+    <user>bbrunker1a</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>kacock0</handle>
+      <address>http://phoca.cz/in/magna/bibendum/imperdiet/nullam/orci.json</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>ehanselmann1</handle>
+      <address>https://chicagotribune.com/volutpat.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>dgettens2</handle>
+      <address>https://liveinternet.ru/at/nibh/in/hac.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-08</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-01</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-02-19</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-06</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-15</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://1688.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://instagram.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://prweb.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Lajo</place>
+      <predplace>movedTo Lajo</predplace>
+      <ts>2018-07-12T10:24:48Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2022-02-11T13:36:12Z</ts>
+        <createdBy>Winnifred Trengrouse</createdBy>
+        <approvedBy>Stace Duffrie</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yakitri</place>
+      <predplace>endedAt Yakitri</predplace>
+      <ts>2012-06-13T03:50:08Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-07T20:50:34Z</ts>
+        <createdBy>Karlee Alner</createdBy>
+        <approvedBy>Lowell Roalfe</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Indonesia</place>
+      <predplace>visited Indonesia</predplace>
+      <end>2017-04-18T10:57:51Z</end>
+      <start>2016-06-21T15:05:17Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://indiegogo.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://qq.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://reuters.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

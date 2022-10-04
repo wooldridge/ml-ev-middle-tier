@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10037</personId>
+  <nameGroup>
+    <givenname>
+      <value>Mano</value>
+    </givenname>
+    <surname>
+      <value>MacGillivray</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>MacGillivray Mano</value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-06-26T11:28:33Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>pmingauld0@issuu.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>239-625-0341</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>631-210-4302</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>618-767-7529</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>881-931-4996</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>392-65-1114</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-09-14T19:46:40Z</ts>
+        <uploadedBy>gpatkin0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-10-26T23:39:41Z</ts>
+        <uploadedBy>wholburn0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-09-26T19:55:09Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>58065 Vera Court</street>
+      <city>Boise</city>
+      <state>ID</state>
+      <postal>83711</postal>
+      <country>United States</country>
+      <latitude>43.4599</latitude>
+      <longitude>-116.244</longitude>
+    </address>
+    <address>
+      <street>3 Hintze Hill</street>
+      <city>Honolulu</city>
+      <state>HI</state>
+      <postal>96850</postal>
+      <country>United States</country>
+      <latitude>21.3095</latitude>
+      <longitude>-157.863</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Colorado State University-Pueblo</name>
+      <city>Miami</city>
+      <state>FL</state>
+      <postal>33169</postal>
+      <latitude>25.9400585</latitude>
+      <longitude>-80.2153998</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-01-19T03:43:56Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2018-02-19T21:43:38Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2013-11-04T15:15:52Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2017-06-04T02:58:27Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10028.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>MacAndie Haywood</fullname>
+      <city>Omaha</city>
+      <state>NE</state>
+    </relation>
+    <relation>
+      <id>/person/10017.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Grimble Nara</fullname>
+      <city>Oakland</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Crofts Kally</fullname>
+      <city>Evansville</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10018.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>O'Leahy Evangelia</fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10052.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Hunton Guillemette</fullname>
+      <city>Nashville</city>
+      <state>TN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-24T18:54:21Z</ts>
+    <user>mmacgillivray10</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-13T12:31:49Z</ts>
+    <user>mmacgillivray10</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>dmacteague0</handle>
+      <address>http://google.pl/sapien.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-08</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://usda.gov</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://sbwire.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://msn.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Oyondu</place>
+      <predplace>movedTo Oyondu</predplace>
+      <ts>2017-06-12T04:17:03Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2022-02-17T03:28:01Z</ts>
+        <createdBy>Glynn Biernat</createdBy>
+        <approvedBy>Nessa Geekin</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yakitri</place>
+      <predplace>endedAt Yakitri</predplace>
+      <ts>2017-11-06T19:46:26Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-08-13T20:21:25Z</ts>
+        <createdBy>Brandy Tudball</createdBy>
+        <approvedBy>Thebault Hackly</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Blogtags</place>
+      <predplace>startedAt Blogtags</predplace>
+      <ts>2014-04-28T00:22:52Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-08-17T02:41:46Z</ts>
+        <createdBy>Anthiathia Bolstridge</createdBy>
+        <approvedBy>Walker Bellhanger</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Jabbertype</place>
+      <predplace>endedAt Jabbertype</predplace>
+      <ts>2017-01-19T13:23:43Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-10-17T02:42:46Z</ts>
+        <createdBy>Layne Nanetti</createdBy>
+        <approvedBy>Siward Bennit</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Abata</place>
+      <predplace>movedTo Abata</predplace>
+      <ts>2017-04-23T18:13:26Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-08-25T08:11:39Z</ts>
+        <createdBy>Thomasin Verney</createdBy>
+        <approvedBy>Broderic Mosey</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Jordan</place>
+      <predplace>servedIn Jordan</predplace>
+      <end>2018-08-01T00:50:16Z</end>
+      <start>2016-06-25T07:18:12Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://deliciousdays.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://theatlantic.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://gnu.org</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

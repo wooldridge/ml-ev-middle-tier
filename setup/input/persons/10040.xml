@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10040</personId>
+  <nameGroup>
+    <givenname>
+      <value>Loren</value>
+    </givenname>
+    <surname>
+      <value>Nelsen</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Nelsen Loren</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-03-26T04:54:23Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-01-16T15:01:45Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>nhatwell0@jiathis.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>rjedrych1@uol.com.br</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>fillesley2@census.gov</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>734-717-8925</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>583-187-4513</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>fsilver1@typepad.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>713-758-3514</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>500-97-6951</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-05-20T05:27:46Z</ts>
+        <uploadedBy>tmateev0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2015-05-24T23:18:52Z</ts>
+        <uploadedBy>yjakeman0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-09-27T21:14:27Z</ts>
+        <uploadedBy>schamberlain0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>7 Rowland Park</street>
+      <city>Los Angeles</city>
+      <state>CA</state>
+      <postal>90035</postal>
+      <country>United States</country>
+      <latitude>34.0531</latitude>
+      <longitude>-118.3806</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Tiffin University</name>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <postal>80935</postal>
+      <latitude>38.8099385</latitude>
+      <longitude>-104.7599648</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-07-10T16:01:31Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-04-22T09:14:42Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2015-10-21T04:59:07Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10034.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Hatto Zorine</fullname>
+      <city>Newport News</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10023.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Stanfield Philippa</fullname>
+      <city>Madison</city>
+      <state>WI</state>
+    </relation>
+    <relation>
+      <id>/person/10057.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Yarmouth Thomasin</fullname>
+      <city>Detroit</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10087.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Southby Herbie</fullname>
+      <city>San Diego</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10058.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Domonkos Caresa</fullname>
+      <city>Louisville</city>
+      <state>KY</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-05T18:40:59Z</ts>
+    <user>lnelsen13</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-31T22:01:08Z</ts>
+    <user>lnelsen13</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>pharris0</handle>
+      <address>http://ftc.gov/suspendisse/accumsan.xml</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>lwoodburn1</handle>
+      <address>http://sina.com.cn/tortor/risus/dapibus/augue/vel/accumsan/tellus.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-22</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-11</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-29</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-17</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://alexa.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://hp.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://gravatar.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yodo</place>
+      <predplace>endedAt Yodo</predplace>
+      <ts>2015-03-28T22:59:03Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-05-29T23:46:50Z</ts>
+        <createdBy>Nanon Kuller</createdBy>
+        <approvedBy>Ettore Giacoppo</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Miboo</place>
+      <predplace>endedAt Miboo</predplace>
+      <ts>2017-06-14T16:15:46Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-01-30T20:34:55Z</ts>
+        <createdBy>Rourke Bog</createdBy>
+        <approvedBy>Tailor Hattigan</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Brazil</place>
+      <predplace>visited Brazil</predplace>
+      <end>2018-12-12T09:54:58Z</end>
+      <start>2016-01-30T00:35:02Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://opera.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://csmonitor.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://ehow.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10071</personId>
+  <nameGroup>
+    <givenname>
+      <value>Ira</value>
+    </givenname>
+    <surname>
+      <value>Beardsley</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Beardsley Ira</value>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-16T01:43:23Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>hjaram0@mtv.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>fbrakewell1@dropbox.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bambrosio2@yale.edu</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>282-937-3836</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>opoleykett0@yelp.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mpersence1@github.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>583-194-7457</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>292-27-9688</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-01-19T14:50:19Z</ts>
+        <uploadedBy>cleedal0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-09-14T09:56:12Z</ts>
+        <uploadedBy>pwison0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-06-08T03:46:00Z</ts>
+        <uploadedBy>hcoles0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>3436 Scofield Park</street>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <postal>30392</postal>
+      <country>United States</country>
+      <latitude>33.8444</latitude>
+      <longitude>-84.474</longitude>
+    </address>
+    <address>
+      <street>2 Hoffman Terrace</street>
+      <city>Orlando</city>
+      <state>FL</state>
+      <postal>32891</postal>
+      <country>United States</country>
+      <latitude>28.5663</latitude>
+      <longitude>-81.2608</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Fontbonne College</name>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <postal>19141</postal>
+      <latitude>40.0397682</latitude>
+      <longitude>-75.145782</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-02-13T19:20:07Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2012-09-06T11:10:41Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2014-04-23T01:15:09Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2016-02-27T09:32:43Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10062.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Drust Fayette</fullname>
+      <city>Miami</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10075.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Wortt Jillayne</fullname>
+      <city>Denver</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Martyntsev Camile</fullname>
+      <city>Miami</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10004.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Morriarty Anatol</fullname>
+      <city>Virginia Beach</city>
+      <state>VA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-11T13:03:32Z</ts>
+    <user>ibeardsley1y</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-24T09:46:18Z</ts>
+    <user>ibeardsley1y</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>pglasser0</handle>
+      <address>http://devhub.com/felis/ut/at/dolor/quis/odio.jpg</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle/>
+      <address>https://go.com/risus.json</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>kcristofori2</handle>
+      <address>http://icio.us/vulputate/ut/ultrices/vel/augue/vestibulum/ante.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-17</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-02-11</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-11</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-09</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-25</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://bloglines.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://yellowbook.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://homestead.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Mudo</place>
+      <predplace>movedTo Mudo</predplace>
+      <ts>2017-03-13T08:56:54Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-09-19T11:13:27Z</ts>
+        <createdBy>Valli Sholem</createdBy>
+        <approvedBy>Natka Swede</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Kazu</place>
+      <predplace>endedAt Kazu</predplace>
+      <ts>2016-06-06T08:09:38Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-03-23T22:20:06Z</ts>
+        <createdBy>Douglass Bergin</createdBy>
+        <approvedBy>Gusty Tutton</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Gabvine</place>
+      <predplace>startedAt Gabvine</predplace>
+      <ts>2012-04-01T19:56:30Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-10-28T08:55:29Z</ts>
+        <createdBy>Rheta Roubert</createdBy>
+        <approvedBy>Tamas Corssen</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>China</place>
+      <predplace>livedIn China</predplace>
+      <end>2018-12-08T15:53:09Z</end>
+      <start>2015-01-19T01:27:40Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://earthlink.net</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://fotki.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://bloglovin.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

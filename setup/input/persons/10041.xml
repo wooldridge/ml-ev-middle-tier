@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10041</personId>
+  <nameGroup>
+    <givenname>
+      <value>Kerwin</value>
+    </givenname>
+    <surname>
+      <value>Boatwright</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Boatwright Kerwin</value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-03-30T04:45:02Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-01-28T01:14:20Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2017-08-31T15:06:17Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>kmoen0@multiply.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>blindner1@msu.edu</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>708-999-5467</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>rvonderdell0@independent.co.uk</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>918-762-2189</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>829-883-3292</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>314-06-0655</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2017-07-18T23:57:37Z</ts>
+        <uploadedBy>swrangle0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2012-01-01T23:10:22Z</ts>
+        <uploadedBy>cmennear0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-04-18T12:31:21Z</ts>
+        <uploadedBy>dgabbitas0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-07-27T19:01:15Z</ts>
+        <uploadedBy>skohneke0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>8 Shelley Lane</street>
+      <city>Albuquerque</city>
+      <state>NM</state>
+      <postal>87201</postal>
+      <country>United States</country>
+      <latitude>35.0443</latitude>
+      <longitude>-106.6729</longitude>
+    </address>
+    <address>
+      <street>8 Russell Way</street>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <postal>11210</postal>
+      <country>United States</country>
+      <latitude>40.6281</latitude>
+      <longitude>-73.9467</longitude>
+    </address>
+    <address>
+      <street>8 Dunning Hill</street>
+      <city>Memphis</city>
+      <state>TN</state>
+      <postal>38136</postal>
+      <country>United States</country>
+      <latitude>35.2017</latitude>
+      <longitude>-89.9715</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>University of Nevada - Reno</name>
+      <city>Bryan</city>
+      <state>TX</state>
+      <postal>77806</postal>
+      <latitude>30.671701</latitude>
+      <longitude>-96.3438274</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-11-17T14:51:17Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Aguascalientes</name>
+      <city>Revolucion</city>
+      <state>VER</state>
+      <postal>93610</postal>
+      <latitude>19.4386048</latitude>
+      <longitude>-99.1034242</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-02-18T20:42:21Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2021-01-19T18:38:52Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10077.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Paike Ambur</fullname>
+      <city>Hagerstown</city>
+      <state>MD</state>
+    </relation>
+    <relation>
+      <id>/person/10040.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Nelsen Loren</fullname>
+      <city>Los Angeles</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10006.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Burdikin Rem</fullname>
+      <city>El Paso</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10093.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Melarkey Marita</fullname>
+      <city>Warren</city>
+      <state>MI</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-18T03:18:43Z</ts>
+    <user>kboatwright14</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-26T09:45:41Z</ts>
+    <user>kboatwright14</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>awhittington0</handle>
+      <address>https://marriott.com/lacinia/eget/tincidunt/eget.png</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle/>
+      <address>http://hibu.com/vel/pede/morbi/porttitor/lorem.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-02-25</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-14</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-02-07</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-19</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-01</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-22</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://google.es</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://indiegogo.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://oracle.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Trupe</place>
+      <predplace>movedTo Trupe</predplace>
+      <ts>2012-05-25T16:30:08Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-03-16T04:19:18Z</ts>
+        <createdBy>Millisent Coatsworth</createdBy>
+        <approvedBy>Martyn Osban</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Layo</place>
+      <predplace>transferredTo Layo</predplace>
+      <ts>2012-12-06T22:57:45Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-23T03:53:57Z</ts>
+        <createdBy>Ernestine Gilley</createdBy>
+        <approvedBy>Cece O'Fearguise</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Jetwire</place>
+      <predplace>movedTo Jetwire</predplace>
+      <ts>2016-07-04T22:19:05Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-11-25T06:28:35Z</ts>
+        <createdBy>Isaiah Summergill</createdBy>
+        <approvedBy>Nikola Garforth</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Indonesia</place>
+      <predplace>servedIn Indonesia</predplace>
+      <end>2017-03-31T19:01:51Z</end>
+      <start>2016-06-24T02:07:16Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://oakley.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://yolasite.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://marriott.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

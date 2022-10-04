@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10054</personId>
+  <nameGroup>
+    <givenname>
+      <value>Odelia</value>
+    </givenname>
+    <surname>
+      <value>Evamy</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Evamy Odelia</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-07-06T17:43:01Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-09-09T00:42:47Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>ngirling0@bravesites.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mtuxell1@newyorker.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ademarchi2@jiathis.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>378-669-0964</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>wlandsborough0@engadget.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>597-203-3783</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>ghuison2@diigo.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>897-17-2744</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2017-10-01T05:17:54Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2016-12-14T03:43:32Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2013-05-19T14:45:54Z</ts>
+        <uploadedBy>rbasilone0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>71960 Cascade Pass</street>
+      <city>Lansing</city>
+      <state>MI</state>
+      <postal>48901</postal>
+      <country>United States</country>
+      <latitude>42.5992</latitude>
+      <longitude>-84.372</longitude>
+    </address>
+    <address>
+      <street>2767 Grayhawk Lane</street>
+      <city>Bronx</city>
+      <state>NY</state>
+      <postal>10474</postal>
+      <country>United States</country>
+      <latitude>40.8139</latitude>
+      <longitude>-73.8841</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad México Internacional</name>
+      <city>Francisco Villa</city>
+      <state>TAM</state>
+      <postal>89762</postal>
+      <latitude>19.3376878</latitude>
+      <longitude>-99.0591821</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-09-09T06:25:33Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-01-16T14:12:58Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Regent International University</name>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20238</postal>
+      <latitude>38.9</latitude>
+      <longitude>-77.04</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-06-03T03:35:28Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2019-12-03T09:21:13Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2013-10-07T14:30:46Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10028.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>MacAndie Haywood</fullname>
+      <city>Omaha</city>
+      <state>NE</state>
+    </relation>
+    <relation>
+      <id>/person/10034.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Hatto Zorine</fullname>
+      <city>Newport News</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10005.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Rist Dolf</fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-26T04:00:49Z</ts>
+    <user>oevamy1h</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-11T06:19:46Z</ts>
+    <user>oevamy1h</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>agater0</handle>
+      <address>http://studiopress.com/arcu/sed/augue.xml</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle/>
+      <address>https://statcounter.com/in/consequat/ut/nulla.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-01-01</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-01-07</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://cloudflare.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://liveinternet.ru</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://blinklist.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Jabberstorm</place>
+      <predplace>movedTo Jabberstorm</predplace>
+      <ts>2015-09-22T01:50:08Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-08-30T05:00:48Z</ts>
+        <createdBy>Clint Seldon</createdBy>
+        <approvedBy>Eldon Covely</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Feedfire</place>
+      <predplace>movedTo Feedfire</predplace>
+      <ts>2018-05-08T12:02:20Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-02-22T01:55:30Z</ts>
+        <createdBy>Herminia Wakenshaw</createdBy>
+        <approvedBy>Zea Towns</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Peru</place>
+      <predplace>servedIn Peru</predplace>
+      <end>2017-01-24T19:51:11Z</end>
+      <start>2014-04-25T16:36:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://aboutads.info</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://jiathis.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://wordpress.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10044</personId>
+  <nameGroup>
+    <givenname>
+      <value>Gardener</value>
+    </givenname>
+    <surname>
+      <value>Robbey</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Robbey Gardener</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-10-01T15:32:46Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2019-04-17T20:36:38Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>gmithan0@t-online.de</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>fralph1@harvard.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>260-584-5236</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>bramsby0@miibeian.gov.cn</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>545-918-1479</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>lvogel2@geocities.jp</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>729-17-2725</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-06-23T20:06:46Z</ts>
+        <uploadedBy>ytimmermann0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-03-13T01:50:14Z</ts>
+        <uploadedBy>rmassinger0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-10-12T06:50:00Z</ts>
+        <uploadedBy>wgoodfield0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>91 Ludington Point</street>
+      <city>Milwaukee</city>
+      <state>WI</state>
+      <postal>53285</postal>
+      <country>United States</country>
+      <latitude>43.0174</latitude>
+      <longitude>-87.5697</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Chadron State College</name>
+      <city>Sacramento</city>
+      <state>CA</state>
+      <postal>94237</postal>
+      <latitude>38.58</latitude>
+      <longitude>-121.49</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-09-09T20:39:59Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-08-22T14:00:52Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2021-05-14T03:25:30Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2011-05-02T08:31:45Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Crofts Kally</fullname>
+      <city>Evansville</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10035.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Portchmouth Pauletta</fullname>
+      <city>San Antonio</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-04T09:25:30Z</ts>
+    <user>grobbey17</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-02T09:36:31Z</ts>
+    <user>grobbey17</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>igravet0</handle>
+      <address>https://altervista.org/habitasse/platea.jpg</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle/>
+      <address>https://jigsy.com/aliquam/sit/amet/diam/in/magna.xml</address>
+    </social>
+  </socials>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://goo.ne.jp</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://forbes.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://printfriendly.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Flipbug</place>
+      <predplace>startedAt Flipbug</predplace>
+      <ts>2012-02-28T05:03:16Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-07-18T04:30:54Z</ts>
+        <createdBy>Aurel Paulsen</createdBy>
+        <approvedBy>Brade Carse</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Geba</place>
+      <predplace>movedTo Geba</predplace>
+      <ts>2014-07-12T15:39:53Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-16T10:24:30Z</ts>
+        <createdBy>Fielding Torvey</createdBy>
+        <approvedBy>Barnabas Ropp</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Sweden</place>
+      <predplace>livedIn Sweden</predplace>
+      <end>2018-08-18T18:10:16Z</end>
+      <start>2014-07-25T17:01:19Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://gravatar.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://phoca.cz</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://buzzfeed.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

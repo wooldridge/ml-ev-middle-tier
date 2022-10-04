@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10085</personId>
+  <nameGroup>
+    <givenname>
+      <value>Donna</value>
+    </givenname>
+    <surname>
+      <value>Tunnicliffe</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Tunnicliffe Donna</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-07-04T08:29:10Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>kdahlman0@bloglines.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>788-215-5032</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>dashfull0@webs.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>133-623-2787</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>adartnell2@opensource.org</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>303-11-5126</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-10-29T03:22:32Z</ts>
+        <uploadedBy>vbenediktsson0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-06-07T00:21:06Z</ts>
+        <uploadedBy>nmacginlay0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2017-09-08T11:26:57Z</ts>
+        <uploadedBy>scasari0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-11-04T20:03:30Z</ts>
+        <uploadedBy>nbiford0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>112 Bay Point</street>
+      <city>Sioux City</city>
+      <state>IA</state>
+      <postal>51105</postal>
+      <country>United States</country>
+      <latitude>42.5032</latitude>
+      <longitude>-96.3829</longitude>
+    </address>
+    <address>
+      <street>8127 Continental Place</street>
+      <city>Charleston</city>
+      <state>SC</state>
+      <postal>29416</postal>
+      <country>United States</country>
+      <latitude>32.8488</latitude>
+      <longitude>-79.8577</longitude>
+    </address>
+    <address>
+      <street>732 Tomscot Circle</street>
+      <city>London</city>
+      <state>KY</state>
+      <postal>40745</postal>
+      <country>United States</country>
+      <latitude>37.1376</latitude>
+      <longitude>-84.1156</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Université du Québec en Abitibi-Témiscamingue</name>
+      <city>Powassan</city>
+      <state>ON</state>
+      <postal>E3G</postal>
+      <latitude>46.0334</latitude>
+      <longitude>-79.34961</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-09-12T11:45:47Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-03-22T18:15:15Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2018-09-21T12:48:55Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Indiana Wesleyan University</name>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <postal>19178</postal>
+      <latitude>39.95</latitude>
+      <longitude>-75.18</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-03-30T04:25:48Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-05-26T16:51:15Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-04-01T07:51:57Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2016-03-28T14:31:19Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10029.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Jozefiak Gianna</fullname>
+      <city>Houston</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10069.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Rowcastle Livy</fullname>
+      <city>Chicago</city>
+      <state>IL</state>
+    </relation>
+    <relation>
+      <id>/person/10073.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Iori Emiline</fullname>
+      <city>Montgomery</city>
+      <state>AL</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-14T09:00:48Z</ts>
+    <user>dtunnicliffe2c</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-06T21:00:34Z</ts>
+    <user>dtunnicliffe2c</user>
+  </lastUpdated>
+  <socials/>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://etsy.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://adobe.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://tuttocitta.it</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Topdrive</place>
+      <predplace>transferredTo Topdrive</predplace>
+      <ts>2018-01-26T19:54:32Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-12-29T03:00:35Z</ts>
+        <createdBy>Cristiano Dufour</createdBy>
+        <approvedBy>Sandie Burke</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Ntag</place>
+      <predplace>startedAt Ntag</predplace>
+      <ts>2013-02-24T07:18:22Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-08-24T15:24:08Z</ts>
+        <createdBy>Clifford Wagg</createdBy>
+        <approvedBy>Grover Giannazzi</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Fiveclub</place>
+      <predplace>movedTo Fiveclub</predplace>
+      <ts>2015-05-29T06:15:38Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-10-06T15:38:27Z</ts>
+        <createdBy>Lilian MacGebenay</createdBy>
+        <approvedBy>Adoree Rennicks</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Mita</place>
+      <predplace>startedAt Mita</predplace>
+      <ts>2015-09-22T15:33:05Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-05-11T12:47:35Z</ts>
+        <createdBy>Sheree Ducker</createdBy>
+        <approvedBy>Trude Fritschmann</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Skibox</place>
+      <predplace>startedAt Skibox</predplace>
+      <ts>2014-05-02T19:44:12Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-03-24T14:00:03Z</ts>
+        <createdBy>Stavro Dee</createdBy>
+        <approvedBy>Goddart Girardey</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Albania</place>
+      <predplace>servedIn Albania</predplace>
+      <end>2018-08-15T16:02:16Z</end>
+      <start>2014-06-07T10:40:08Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://blogger.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://cdc.gov</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://vk.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

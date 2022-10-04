@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10081</personId>
+  <nameGroup>
+    <givenname>
+      <value>Casar</value>
+    </givenname>
+    <surname>
+      <value>Stones</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Stones Casar</value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2017-07-26T11:43:18Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>sjohnston0@deliciousdays.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>585-252-5711</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>fwildblood0@mayoclinic.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>532-604-9123</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>powers2@mit.edu</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>749-57-9397</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-14T01:42:54Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2015-09-08T06:48:13Z</ts>
+        <uploadedBy>tealles0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2017-08-18T02:01:51Z</ts>
+        <uploadedBy>eyurinov0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-09-19T13:24:17Z</ts>
+        <uploadedBy>ylabastida0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>130 Fulton Road</street>
+      <city>Amarillo</city>
+      <state>TX</state>
+      <postal>79182</postal>
+      <country>United States</country>
+      <latitude>35.4015</latitude>
+      <longitude>-101.8951</longitude>
+    </address>
+    <address>
+      <street>34815 Warner Lane</street>
+      <city>Maple Plain</city>
+      <state>MN</state>
+      <postal>55572</postal>
+      <country>United States</country>
+      <latitude>45.0159</latitude>
+      <longitude>-93.4719</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad La Salle Cuernavaca</name>
+      <city>Benito Juarez</city>
+      <state>TAM</state>
+      <postal>88930</postal>
+      <latitude>22.2016816</latitude>
+      <longitude>-97.8367954</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-02-25T22:46:43Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Appalachian State University</name>
+      <city>Pasadena</city>
+      <state>CA</state>
+      <postal>91103</postal>
+      <latitude>34.1672881</latitude>
+      <longitude>-118.153228</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-04-30T01:42:27Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-06-27T02:47:03Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-12-31T10:29:17Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2010-06-17T14:35:27Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2020-10-13T05:14:47Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2020-01-12T06:53:56Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10073.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Iori Emiline</fullname>
+      <city>Montgomery</city>
+      <state>AL</state>
+    </relation>
+    <relation>
+      <id>/person/10093.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Melarkey Marita</fullname>
+      <city>Warren</city>
+      <state>MI</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-10T09:50:27Z</ts>
+    <user>cstones28</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-17T02:23:50Z</ts>
+    <user>cstones28</user>
+  </lastUpdated>
+  <socials/>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://about.me</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://51.la</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://hud.gov</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Photospace</place>
+      <predplace>endedAt Photospace</predplace>
+      <ts>2019-06-07T20:48:48Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-09T01:27:18Z</ts>
+        <createdBy>Davon Tunnah</createdBy>
+        <approvedBy>Shea Onn</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Ooba</place>
+      <predplace>transferredTo Ooba</predplace>
+      <ts>2015-07-21T23:18:57Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-19T13:42:24Z</ts>
+        <createdBy>Pauletta Hodgon</createdBy>
+        <approvedBy>Alyse Maybey</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Tagchat</place>
+      <predplace>transferredTo Tagchat</predplace>
+      <ts>2012-10-26T05:36:09Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-01T07:45:58Z</ts>
+        <createdBy>Gifford Andrag</createdBy>
+        <approvedBy>Base Attryde</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Sweden</place>
+      <predplace>servedIn Sweden</predplace>
+      <end>2017-08-26T07:59:02Z</end>
+      <start>2014-09-25T18:15:39Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://rakuten.co.jp</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://archive.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://nytimes.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

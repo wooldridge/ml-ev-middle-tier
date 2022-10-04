@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10069</personId>
+  <nameGroup>
+    <givenname>
+      <value>Livy</value>
+    </givenname>
+    <surname>
+      <value>Rowcastle</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Rowcastle Livy</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-05-11T16:21:38Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-12-07T08:25:51Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2017-08-28T10:06:36Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>bellul0@nationalgeographic.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>686-188-3284</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>450-688-5593</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>480-705-3613</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>705-979-4786</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>646-62-7931</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-10-11T06:18:12Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>4554 Loftsgordon Way</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <postal>60657</postal>
+      <country>United States</country>
+      <latitude>41.9399</latitude>
+      <longitude>-87.6528</longitude>
+    </address>
+    <address>
+      <street>3 Darwin Road</street>
+      <city>Grand Rapids</city>
+      <state>MI</state>
+      <postal>49560</postal>
+      <country>United States</country>
+      <latitude>43.0314</latitude>
+      <longitude>-85.5503</longitude>
+    </address>
+    <address>
+      <street>65 Wayridge Way</street>
+      <city>Corpus Christi</city>
+      <state>TX</state>
+      <postal>78405</postal>
+      <country>United States</country>
+      <latitude>27.7762</latitude>
+      <longitude>-97.4271</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Sterling College</name>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <postal>30343</postal>
+      <latitude>33.76</latitude>
+      <longitude>-84.39</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-12-05T22:22:56Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-09-20T07:52:01Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2019-09-07T17:35:32Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2019-02-21T08:44:36Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2015-10-12T16:30:15Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10011.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Vaskin Nowell</fullname>
+      <city>Monticello</city>
+      <state>MN</state>
+    </relation>
+    <relation>
+      <id>/person/10006.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Burdikin Rem</fullname>
+      <city>El Paso</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-10T04:43:19Z</ts>
+    <user>lrowcastle1w</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-14T09:08:25Z</ts>
+    <user>lrowcastle1w</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>kgypson0</handle>
+      <address>http://51.la/morbi/vestibulum/velit.js</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-02-26</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-12</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-20</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://friendfeed.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://tiny.cc</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://businessinsider.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Oyoyo</place>
+      <predplace>transferredTo Oyoyo</predplace>
+      <ts>2012-10-14T10:51:04Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-01-18T06:50:14Z</ts>
+        <createdBy>Brett Losemann</createdBy>
+        <approvedBy>Lanie Billings</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Topiclounge</place>
+      <predplace>endedAt Topiclounge</predplace>
+      <ts>2014-06-08T18:07:06Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-17T10:31:48Z</ts>
+        <createdBy>Phil Smalles</createdBy>
+        <approvedBy>Andrey Eouzan</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Oyondu</place>
+      <predplace>endedAt Oyondu</predplace>
+      <ts>2018-05-23T19:50:48Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-01-16T07:47:48Z</ts>
+        <createdBy>Amii Vidler</createdBy>
+        <approvedBy>Helen Corriea</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Skivee</place>
+      <predplace>transferredTo Skivee</predplace>
+      <ts>2018-05-25T15:51:10Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-07-05T03:19:17Z</ts>
+        <createdBy>Gunner Camin</createdBy>
+        <approvedBy>Ferdy Kennham</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Brazil</place>
+      <predplace>servedIn Brazil</predplace>
+      <end>2018-01-09T15:57:54Z</end>
+      <start>2014-12-20T07:50:31Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://cpanel.net</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://globo.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://bizjournals.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

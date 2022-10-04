@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10011</personId>
+  <nameGroup>
+    <givenname>
+      <value>Nowell</value>
+    </givenname>
+    <surname>
+      <value>Vaskin</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Vaskin Nowell</value>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-05-27T08:43:43Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-06-29T20:49:55Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2010-10-28T22:31:27Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>bkinghorn0@cbc.ca</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>dspurryer1@furl.net</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>cbezarra2@gmpg.org</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>147-757-9485</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>902-684-3269</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>tmurt1@sitemeter.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>aedy2@live.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>252-19-3304</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2015-11-29T09:05:05Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>1618 Morning Point</street>
+      <city>Monticello</city>
+      <state>MN</state>
+      <postal>55585</postal>
+      <country>United States</country>
+      <latitude>45.2009</latitude>
+      <longitude>-93.8881</longitude>
+    </address>
+    <address>
+      <street>368 Hollow Ridge Crossing</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <postal>77005</postal>
+      <country>United States</country>
+      <latitude>29.7179</latitude>
+      <longitude>-95.4263</longitude>
+    </address>
+    <address>
+      <street>316 Crowley Road</street>
+      <city>Miami</city>
+      <state>FL</state>
+      <postal>33245</postal>
+      <country>United States</country>
+      <latitude>25.5584</latitude>
+      <longitude>-80.4582</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Indiana University - Northwest</name>
+      <city>New York City</city>
+      <state>NY</state>
+      <postal>10175</postal>
+      <latitude>40.7544003</latitude>
+      <longitude>-73.9801334</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-17T04:12:14Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-11-29T00:56:06Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Canada</country>
+      <name>Institut National de la Recherche Scientifique, Université du Québec</name>
+      <city>Abbotsford</city>
+      <state>BC</state>
+      <postal>L9T</postal>
+      <latitude>49.05798</latitude>
+      <longitude>-122.25257</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-06-17T05:15:52Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-01-05T07:07:52Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2021-11-01T21:09:22Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2020-07-29T12:12:26Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10060.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Humbey Lulita</fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10063.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Raiment Tiler</fullname>
+      <city>Nashville</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10003.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Iiannoni Sara</fullname>
+      <city>Asheville</city>
+      <state>NC</state>
+    </relation>
+    <relation>
+      <id>/person/10026.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Trippack Jens</fullname>
+      <city>Lees Summit</city>
+      <state>MO</state>
+    </relation>
+    <relation>
+      <id>/person/10079.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Sumpton Ravid</fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-09T04:28:17Z</ts>
+    <user>nvaskina</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-12T20:38:04Z</ts>
+    <user>nvaskina</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>https://uiuc.edu/platea/dictumst/aliquam.html</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>kmcvittie1</handle>
+      <address>http://kickstarter.com/montes/nascetur/ridiculus/mus.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-13</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-02-09</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-05</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://yellowpages.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://weibo.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://google.ru</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Mynte</place>
+      <predplace>transferredTo Mynte</predplace>
+      <ts>2019-06-22T23:26:59Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-06-29T08:34:23Z</ts>
+        <createdBy>Roby Hurleston</createdBy>
+        <approvedBy>Schuyler Currie</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Voonyx</place>
+      <predplace>endedAt Voonyx</predplace>
+      <ts>2012-03-22T13:23:53Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-10-27T22:17:32Z</ts>
+        <createdBy>Geralda Spellworth</createdBy>
+        <approvedBy>Rachel Ughini</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Serbia</place>
+      <predplace>livedIn Serbia</predplace>
+      <end>2017-12-22T20:42:21Z</end>
+      <start>2015-08-02T11:40:05Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://addtoany.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://sitemeter.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://telegraph.co.uk</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

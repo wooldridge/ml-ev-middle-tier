@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10001</personId>
+  <nameGroup>
+    <givenname>
+      <value>Homere</value>
+    </givenname>
+    <surname>
+      <value>Jarrell</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Jarrell Homere</value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2019-09-04T14:21:32Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>ebilbie0@nhs.uk</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>sbrabham1@rakuten.co.jp</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mchidgey2@discuz.net</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>432-420-0913</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>fjillitt0@china.com.cn</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>tpesic1@hexun.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>868-424-0958</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>260-64-1349</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2013-12-17T12:02:18Z</ts>
+        <uploadedBy>jwindross0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-08-16T10:10:25Z</ts>
+        <uploadedBy>rgaffer0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-05-14T18:05:51Z</ts>
+        <uploadedBy>eovershott0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-03-27T13:31:50Z</ts>
+        <uploadedBy>elyste0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>04516 Magdeline Lane</street>
+      <city>Waterbury</city>
+      <state>CT</state>
+      <postal>06721</postal>
+      <country>United States</country>
+      <latitude>41.3657</latitude>
+      <longitude>-72.9275</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Scholl College of Podiatric Medicine</name>
+      <city>Las Vegas</city>
+      <state>NV</state>
+      <postal>89115</postal>
+      <latitude>36.3193563</latitude>
+      <longitude>-115.0228736</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-09-20T11:30:38Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2016-12-21T09:26:54Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2016-06-19T00:46:20Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2013-03-03T11:46:13Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10048.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Schwerin Salomone</fullname>
+      <city>Alhambra</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10068.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Mil Loren</fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10028.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>MacAndie Haywood</fullname>
+      <city>Omaha</city>
+      <state>NE</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-12T19:24:47Z</ts>
+    <user>hjarrell0</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-21T17:48:48Z</ts>
+    <user>hjarrell0</user>
+  </lastUpdated>
+  <socials/>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://indiegogo.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://aboutads.info</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://i2i.jp</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Jabbersphere</place>
+      <predplace>transferredTo Jabbersphere</predplace>
+      <ts>2017-04-27T03:28:19Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-30T12:50:15Z</ts>
+        <createdBy>Eda Stollberger</createdBy>
+        <approvedBy>Viki Birch</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Eabox</place>
+      <predplace>startedAt Eabox</predplace>
+      <ts>2018-08-15T16:00:25Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-01T19:48:03Z</ts>
+        <createdBy>Roman MacNamara</createdBy>
+        <approvedBy>Dannie Ruffli</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Russia</place>
+      <predplace>servedIn Russia</predplace>
+      <end>2017-03-20T19:28:23Z</end>
+      <start>2016-06-12T13:47:22Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://businessweek.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://arstechnica.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://gravatar.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

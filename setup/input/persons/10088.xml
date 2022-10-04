@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10088</personId>
+  <nameGroup>
+    <givenname>
+      <value>Gareth</value>
+    </givenname>
+    <surname>
+      <value>Wearing</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Wearing Gareth</value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2014-01-12T23:46:14Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>nbrigge0@mozilla.org</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bredpath1@state.gov</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>epochin2@cloudflare.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>450-425-0558</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>966-625-4376</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>838-687-3150</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>atidbold2@hubpages.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>714-45-8126</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2019-03-09T07:31:16Z</ts>
+        <uploadedBy>cpendre0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-01-07T22:34:20Z</ts>
+        <uploadedBy>cmellody0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-05-17T08:48:44Z</ts>
+        <uploadedBy>askillington0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>4 Washington Terrace</street>
+      <city>Northridge</city>
+      <state>CA</state>
+      <postal>91328</postal>
+      <country>United States</country>
+      <latitude>33.7866</latitude>
+      <longitude>-118.2987</longitude>
+    </address>
+    <address>
+      <street>2 Forest Dale Circle</street>
+      <city>Miami</city>
+      <state>FL</state>
+      <postal>33283</postal>
+      <country>United States</country>
+      <latitude>25.5584</latitude>
+      <longitude>-80.4582</longitude>
+    </address>
+    <address>
+      <street>92059 Birchwood Alley</street>
+      <city>Roanoke</city>
+      <state>VA</state>
+      <postal>24029</postal>
+      <country>United States</country>
+      <latitude>37.2742</latitude>
+      <longitude>-79.9579</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Augustana University College</name>
+      <city>Manning</city>
+      <state>AB</state>
+      <postal>V3A</postal>
+      <latitude>56.91683</latitude>
+      <longitude>-117.61945</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-02-27T14:55:28Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-07-04T16:59:07Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Instituto Politécnico Nacional, Campus Guanajuato</name>
+      <city>Ricardo Flores Magon</city>
+      <state>VER</state>
+      <postal>93650</postal>
+      <latitude>19.1914151</latitude>
+      <longitude>-96.1275175</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-07-07T19:39:11Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-09-30T07:23:39Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-09-14T05:20:51Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2011-05-29T13:29:31Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10066.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Arton Janelle</fullname>
+      <city>Cheyenne</city>
+      <state>WY</state>
+    </relation>
+    <relation>
+      <id>/person/10033.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Boal Ainslie</fullname>
+      <city>Winston Salem</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-04T17:53:49Z</ts>
+    <user>gwearing2f</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-19T17:45:10Z</ts>
+    <user>gwearing2f</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>mcockrell0</handle>
+      <address>http://wix.com/integer/tincidunt/ante/vel/ipsum.html</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>http://salon.com/quam/pharetra/magna/ac/consequat.jpg</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-03</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-01-28</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-02</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-01-12</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-02-14</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://dailymail.co.uk</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://soup.io</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://cbslocal.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tagcat</place>
+      <predplace>endedAt Tagcat</predplace>
+      <ts>2015-10-11T00:23:35Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-09-21T01:54:38Z</ts>
+        <createdBy>Bob Shury</createdBy>
+        <approvedBy>Ashton Klesse</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yodo</place>
+      <predplace>endedAt Yodo</predplace>
+      <ts>2017-10-10T19:24:47Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-01-08T20:57:44Z</ts>
+        <createdBy>Celinda MacFayden</createdBy>
+        <approvedBy>Coraline Boydle</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>El Salvador</place>
+      <predplace>servedIn El Salvador</predplace>
+      <end>2018-05-09T14:02:57Z</end>
+      <start>2014-05-24T13:20:10Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://washington.edu</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://de.vu</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://dion.ne.jp</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

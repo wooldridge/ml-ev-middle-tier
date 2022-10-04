@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10035</personId>
+  <nameGroup>
+    <givenname>
+      <value>Pauletta</value>
+    </givenname>
+    <surname>
+      <value>Portchmouth</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Portchmouth Pauletta</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-03-23T09:48:36Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-12-04T03:54:22Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-09-27T11:57:57Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>jskotcher0@gmpg.org</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>rbranscomb1@google.nl</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mmaud2@purevolume.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>428-637-4917</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>311-160-8542</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>cbraitling1@multiply.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>tclemence2@shinystat.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>634-11-0990</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-09-01T12:37:27Z</ts>
+        <uploadedBy>bbellocht0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-10-31T14:04:30Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>64417 Emmet Lane</street>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <postal>78220</postal>
+      <country>United States</country>
+      <latitude>29.4106</latitude>
+      <longitude>-98.4128</longitude>
+    </address>
+    <address>
+      <street>39553 Onsgard Center</street>
+      <city>Memphis</city>
+      <state>TN</state>
+      <postal>38143</postal>
+      <country>United States</country>
+      <latitude>35.2017</latitude>
+      <longitude>-89.9715</longitude>
+    </address>
+    <address>
+      <street>36 Derek Way</street>
+      <city>Waterbury</city>
+      <state>CT</state>
+      <postal>06721</postal>
+      <country>United States</country>
+      <latitude>41.3657</latitude>
+      <longitude>-72.9275</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Swarthmore College</name>
+      <city>Midland</city>
+      <state>TX</state>
+      <postal>79710</postal>
+      <latitude>32.0631839</latitude>
+      <longitude>-102.0375564</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-08-09T13:43:10Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>University of Tennessee - Knoxville</name>
+      <city>Sacramento</city>
+      <state>CA</state>
+      <postal>95813</postal>
+      <latitude>38.6024828</latitude>
+      <longitude>-121.4470463</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-10-23T02:31:38Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2019-09-17T10:41:45Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2017-08-14T05:47:19Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Crofts Kally</fullname>
+      <city>Evansville</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Patek Veronica</fullname>
+      <city>Milwaukee</city>
+      <state>WI</state>
+    </relation>
+    <relation>
+      <id>/person/10038.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Pippin Shelby</fullname>
+      <city>New Orleans</city>
+      <state>LA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-15T19:59:25Z</ts>
+    <user>pportchmouthy</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-09T13:19:02Z</ts>
+    <user>pportchmouthy</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>mwoodington0</handle>
+      <address>http://globo.com/vulputate/elementum/nullam/varius/nulla/facilisi/cras.json</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>lverissimo1</handle>
+      <address>https://globo.com/luctus/tincidunt/nulla/mollis/molestie.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-10</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-14</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-11</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-02-13</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://wikia.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://spotify.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://kickstarter.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Kwilith</place>
+      <predplace>endedAt Kwilith</predplace>
+      <ts>2013-07-15T20:35:19Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-04T12:15:03Z</ts>
+        <createdBy>Vyky Vasey</createdBy>
+        <approvedBy>Laurel Hansford</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Roodel</place>
+      <predplace>transferredTo Roodel</predplace>
+      <ts>2013-03-30T04:05:36Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-05-14T19:59:23Z</ts>
+        <createdBy>Leonidas Crombleholme</createdBy>
+        <approvedBy>Dov Pirt</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoomzone</place>
+      <predplace>endedAt Zoomzone</predplace>
+      <ts>2019-01-21T14:57:07Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-01-16T22:51:48Z</ts>
+        <createdBy>Lindsey Andri</createdBy>
+        <approvedBy>Ody Ramelot</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Buzzbean</place>
+      <predplace>startedAt Buzzbean</predplace>
+      <ts>2016-12-21T05:12:24Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-06-11T15:24:11Z</ts>
+        <createdBy>Wake Upson</createdBy>
+        <approvedBy>Myrtie Galle</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Thoughtworks</place>
+      <predplace>endedAt Thoughtworks</predplace>
+      <ts>2015-10-14T07:18:52Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-10-08T08:11:06Z</ts>
+        <createdBy>Verine Quarles</createdBy>
+        <approvedBy>Godfree Mosco</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>China</place>
+      <predplace>livedIn China</predplace>
+      <end>2017-10-19T18:55:08Z</end>
+      <start>2014-12-01T03:07:32Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://apple.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://yolasite.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://livejournal.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

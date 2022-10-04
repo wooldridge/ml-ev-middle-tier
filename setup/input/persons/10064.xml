@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10064</personId>
+  <nameGroup>
+    <givenname>
+      <value>Hort</value>
+    </givenname>
+    <surname>
+      <value>Hardaker</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Hardaker Hort</value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-11-04T06:17:34Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>afettes0@rakuten.co.jp</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>844-493-5043</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>dfelderer0@businessweek.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>495-160-8446</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>lhaug2@mozilla.org</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>427-81-6638</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-05-14T21:31:49Z</ts>
+        <uploadedBy>cembery0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>8 Larry Drive</street>
+      <city>Gastonia</city>
+      <state>NC</state>
+      <postal>28055</postal>
+      <country>United States</country>
+      <latitude>35.284</latitude>
+      <longitude>-81.1897</longitude>
+    </address>
+    <address>
+      <street>125 Vera Terrace</street>
+      <city>Grand Rapids</city>
+      <state>MI</state>
+      <postal>49505</postal>
+      <country>United States</country>
+      <latitude>43.012</latitude>
+      <longitude>-85.6309</longitude>
+    </address>
+    <address>
+      <street>5 Ilene Trail</street>
+      <city>Springfield</city>
+      <state>IL</state>
+      <postal>62718</postal>
+      <country>United States</country>
+      <latitude>39.778</latitude>
+      <longitude>-89.6466</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>University of Regina</name>
+      <city>Maple Ridge</city>
+      <state>BC</state>
+      <postal>V2X</postal>
+      <latitude>49.2227573</latitude>
+      <longitude>-122.6175451</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-07-05T09:03:36Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-12-08T18:17:25Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2018-12-10T10:16:41Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Drake University</name>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20022</postal>
+      <latitude>38.9187037</latitude>
+      <longitude>-76.9611991</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-02-18T10:18:06Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-01-19T06:07:34Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-10T03:37:03Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2013-09-25T20:25:30Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2016-03-11T16:58:56Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2018-04-02T06:21:15Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10090.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Ware Sherlock</fullname>
+      <city>Reno</city>
+      <state>NV</state>
+    </relation>
+    <relation>
+      <id>/person/10005.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Rist Dolf</fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10044.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</imageSrc>
+      <fullname>Robbey Gardener</fullname>
+      <city>Milwaukee</city>
+      <state>WI</state>
+    </relation>
+    <relation>
+      <id>/person/10027.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Scalia Charyl</fullname>
+      <city>Marietta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10019.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Basey Fredelia</fullname>
+      <city>Northridge</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-11T02:07:46Z</ts>
+    <user>hhardaker1r</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-22T00:07:01Z</ts>
+    <user>hhardaker1r</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-02</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://qq.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://theglobeandmail.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://joomla.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoovu</place>
+      <predplace>endedAt Zoovu</predplace>
+      <ts>2015-05-09T21:18:58Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-10-11T12:28:28Z</ts>
+        <createdBy>Luis Swatridge</createdBy>
+        <approvedBy>Phillip Routhorn</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Ozu</place>
+      <predplace>endedAt Ozu</predplace>
+      <ts>2016-10-26T11:08:48Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-07-07T18:22:20Z</ts>
+        <createdBy>Morey Olrenshaw</createdBy>
+        <approvedBy>Lanie Reen</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Philippines</place>
+      <predplace>servedIn Philippines</predplace>
+      <end>2017-07-19T15:03:02Z</end>
+      <start>2016-01-28T14:12:07Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://economist.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://boston.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://godaddy.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

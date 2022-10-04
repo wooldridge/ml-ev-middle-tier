@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10042</personId>
+  <nameGroup>
+    <givenname>
+      <value>Guillemette</value>
+    </givenname>
+    <surname>
+      <value>Crinkley</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Crinkley Guillemette</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-03-11T19:51:32Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-07-08T20:47:42Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>jgowans0@ft.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mwanley1@shinystat.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>242-102-6734</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>723-754-3432</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>ldarrington1@yellowpages.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jradband2@diigo.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>389-10-6183</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2010-11-30T14:55:58Z</ts>
+        <uploadedBy>gdreakin0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>38539 Stoughton Plaza</street>
+      <city>New Orleans</city>
+      <state>LA</state>
+      <postal>70160</postal>
+      <country>United States</country>
+      <latitude>30.033</latitude>
+      <longitude>-89.8826</longitude>
+    </address>
+    <address>
+      <street>82791 Straubel Way</street>
+      <city>Katy</city>
+      <state>TX</state>
+      <postal>77493</postal>
+      <country>United States</country>
+      <latitude>29.8678</latitude>
+      <longitude>-95.8298</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Allen University</name>
+      <city>Tyler</city>
+      <state>TX</state>
+      <postal>75799</postal>
+      <latitude>32.31651</latitude>
+      <longitude>-95.2514685</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-06-04T13:44:41Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-05-11T07:17:11Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Canada</country>
+      <name>University College of Cape Breton</name>
+      <city>Moosomin</city>
+      <state>SK</state>
+      <postal>H4J</postal>
+      <latitude>50.13332</latitude>
+      <longitude>-101.66766</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-11T00:00:56Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-06T21:36:05Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-03-06T17:02:00Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2011-06-23T21:34:32Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10087.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Southby Herbie</fullname>
+      <city>San Diego</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10005.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Rist Dolf</fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10068.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Mil Loren</fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10097.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</imageSrc>
+      <fullname>Myhan Iolande</fullname>
+      <city>Anniston</city>
+      <state>AL</state>
+    </relation>
+    <relation>
+      <id>/person/10075.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Wortt Jillayne</fullname>
+      <city>Denver</city>
+      <state>CO</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-20T20:30:22Z</ts>
+    <user>gcrinkley15</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-05T16:00:04Z</ts>
+    <user>gcrinkley15</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>cpethick0</handle>
+      <address>https://java.com/in/felis.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-01-29</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-19</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-19</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-02-14</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-16</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://4shared.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://usnews.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://umn.edu</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Cogibox</place>
+      <predplace>transferredTo Cogibox</predplace>
+      <ts>2015-09-03T12:14:01Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-03-27T13:22:55Z</ts>
+        <createdBy>Trumann Ratazzi</createdBy>
+        <approvedBy>Idelle Coysh</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Wordtune</place>
+      <predplace>movedTo Wordtune</predplace>
+      <ts>2018-01-30T04:13:13Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2022-02-22T14:23:42Z</ts>
+        <createdBy>Rosalinda Sisley</createdBy>
+        <approvedBy>Angele Beall</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Jabbersphere</place>
+      <predplace>transferredTo Jabbersphere</predplace>
+      <ts>2018-10-09T18:03:26Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-12-25T06:32:14Z</ts>
+        <createdBy>Mark Weakley</createdBy>
+        <approvedBy>Jenda Romeril</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Afghanistan</place>
+      <predplace>visited Afghanistan</predplace>
+      <end>2018-05-05T20:04:26Z</end>
+      <start>2016-03-25T17:19:13Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://nytimes.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://businessinsider.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://gnu.org</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

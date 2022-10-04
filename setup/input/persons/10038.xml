@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10038</personId>
+  <nameGroup>
+    <givenname>
+      <value>Shelby</value>
+    </givenname>
+    <surname>
+      <value>Pippin</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Pippin Shelby</value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2019-11-16T23:11:38Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-11-20T02:07:58Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>aanger0@ebay.co.uk</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>emorriss1@pinterest.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ddalrymple2@flavors.me</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>555-908-8504</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>310-359-2654</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>784-413-0666</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>sdehmel2@vk.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>283-82-1794</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2010-11-27T19:26:43Z</ts>
+        <uploadedBy>wfinessy0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>48 Utah Trail</street>
+      <city>New Orleans</city>
+      <state>LA</state>
+      <postal>70154</postal>
+      <country>United States</country>
+      <latitude>30.033</latitude>
+      <longitude>-89.8826</longitude>
+    </address>
+    <address>
+      <street>1471 Dapin Hill</street>
+      <city>New Brunswick</city>
+      <state>NJ</state>
+      <postal>08922</postal>
+      <country>United States</country>
+      <latitude>40.43</latitude>
+      <longitude>-74.4173</longitude>
+    </address>
+    <address>
+      <street>496 Bunting Hill</street>
+      <city>Albuquerque</city>
+      <state>NM</state>
+      <postal>87190</postal>
+      <country>United States</country>
+      <latitude>35.0443</latitude>
+      <longitude>-106.6729</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad del Bajío</name>
+      <city>San Jose</city>
+      <state>GRO</state>
+      <postal>39266</postal>
+      <latitude>25.8007724</latitude>
+      <longitude>-100.4277766</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-04-02T05:29:41Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-06-19T02:03:52Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Scripps College</name>
+      <city>Austin</city>
+      <state>TX</state>
+      <postal>78759</postal>
+      <latitude>30.401356</latitude>
+      <longitude>-97.7525352</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-07-22T04:37:00Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-11-27T04:25:51Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2020-03-06T14:14:59Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10004.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Morriarty Anatol</fullname>
+      <city>Virginia Beach</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10057.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Yarmouth Thomasin</fullname>
+      <city>Detroit</city>
+      <state>MI</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-06T07:01:22Z</ts>
+    <user>spippin11</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-27T16:00:09Z</ts>
+    <user>spippin11</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>swescott0</handle>
+      <address>https://go.com/vestibulum/ante/ipsum/primis/in/faucibus.png</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>wbuttel1</handle>
+      <address>http://ucoz.com/accumsan/tellus/nisi/eu.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-01-22</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-01-02</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-01-24</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-02-03</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://tiny.cc</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://scribd.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://state.tx.us</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Avamm</place>
+      <predplace>movedTo Avamm</predplace>
+      <ts>2014-03-25T18:21:10Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-05-19T20:37:30Z</ts>
+        <createdBy>Lexine Foster</createdBy>
+        <approvedBy>Rosemaria Bernade</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Aivee</place>
+      <predplace>transferredTo Aivee</predplace>
+      <ts>2012-08-19T05:20:07Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-03-22T18:06:33Z</ts>
+        <createdBy>Susanetta Horwell</createdBy>
+        <approvedBy>Orly Obell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Kamba</place>
+      <predplace>movedTo Kamba</predplace>
+      <ts>2012-12-02T04:41:39Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-05-16T11:42:32Z</ts>
+        <createdBy>Chrisy Attride</createdBy>
+        <approvedBy>Quintin Agent</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Buzzdog</place>
+      <predplace>transferredTo Buzzdog</predplace>
+      <ts>2018-05-22T18:48:16Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-10-14T19:06:56Z</ts>
+        <createdBy>Jonell Starkie</createdBy>
+        <approvedBy>Salvador Chattey</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Canada</place>
+      <predplace>livedIn Canada</predplace>
+      <end>2018-11-17T13:21:59Z</end>
+      <start>2015-08-27T06:15:59Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://gov.uk</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://hibu.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://bbc.co.uk</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

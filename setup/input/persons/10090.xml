@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10090</personId>
+  <nameGroup>
+    <givenname>
+      <value>Sherlock</value>
+    </givenname>
+    <surname>
+      <value>Ware</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Ware Sherlock</value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-09-08T17:15:07Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-06-17T02:07:33Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-09-18T11:11:35Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>mgallager0@nhs.uk</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>661-462-6070</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>sjurges0@mysql.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>hderrico1@dyndns.org</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>crowler2@linkedin.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>501-81-2296</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-07-10T06:09:51Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-02-22T17:29:27Z</ts>
+        <uploadedBy>esinton0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-04-29T06:59:07Z</ts>
+        <uploadedBy>fdalrymple0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>88 Bartillon Point</street>
+      <city>Reno</city>
+      <state>NV</state>
+      <postal>89510</postal>
+      <country>United States</country>
+      <latitude>39.7699</latitude>
+      <longitude>-119.6027</longitude>
+    </address>
+    <address>
+      <street>84275 Autumn Leaf Terrace</street>
+      <city>Mesa</city>
+      <state>AZ</state>
+      <postal>85205</postal>
+      <country>United States</country>
+      <latitude>33.4368</latitude>
+      <longitude>-111.7129</longitude>
+    </address>
+    <address>
+      <street>90467 Northland Court</street>
+      <city>Frankfort</city>
+      <state>KY</state>
+      <postal>40618</postal>
+      <country>United States</country>
+      <latitude>38.2341</latitude>
+      <longitude>-84.8748</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Cristóbal Colón</name>
+      <city>Adolfo Lopez Mateos</city>
+      <state>MEX</state>
+      <postal>56528</postal>
+      <latitude>19.3852368</latitude>
+      <longitude>-98.9545512</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-12-07T20:44:57Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-11-25T00:27:20Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Olivet Nazarene University</name>
+      <city>Madison</city>
+      <state>WI</state>
+      <postal>53710</postal>
+      <latitude>43.0745339</latitude>
+      <longitude>-89.3805579</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-01-20T07:38:29Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2011-07-15T16:13:51Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2012-08-10T22:28:07Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2021-04-12T10:19:37Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10053.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Coase Yelena</fullname>
+      <city>Madison</city>
+      <state>WI</state>
+    </relation>
+    <relation>
+      <id>/person/10004.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Morriarty Anatol</fullname>
+      <city>Virginia Beach</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10069.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Rowcastle Livy</fullname>
+      <city>Chicago</city>
+      <state>IL</state>
+    </relation>
+    <relation>
+      <id>/person/10094.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Beltzner Zerk</fullname>
+      <city>Albany</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10008.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Dell Casa Laverna</fullname>
+      <city>Lake Charles</city>
+      <state>LA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-14T18:07:34Z</ts>
+    <user>sware2h</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-15T21:57:05Z</ts>
+    <user>sware2h</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-02-17</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-02-06</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-01-02</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://jiathis.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://ox.ac.uk</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://lycos.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Eadel</place>
+      <predplace>endedAt Eadel</predplace>
+      <ts>2019-10-29T14:11:33Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-06-12T02:41:01Z</ts>
+        <createdBy>Lianna Stracey</createdBy>
+        <approvedBy>Kassi Brusin</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Vidoo</place>
+      <predplace>transferredTo Vidoo</predplace>
+      <ts>2018-01-03T13:01:22Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-07-27T16:32:52Z</ts>
+        <createdBy>Tad Maric</createdBy>
+        <approvedBy>Mack Remnant</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Topicware</place>
+      <predplace>movedTo Topicware</predplace>
+      <ts>2017-06-13T10:35:45Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-09-03T01:41:55Z</ts>
+        <createdBy>Margalo Osipenko</createdBy>
+        <approvedBy>Clarey Pettigrew</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Flashpoint</place>
+      <predplace>endedAt Flashpoint</predplace>
+      <ts>2012-10-11T03:03:34Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-10-26T23:21:51Z</ts>
+        <createdBy>Burty McKinnell</createdBy>
+        <approvedBy>Kipp Awmack</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Skyba</place>
+      <predplace>transferredTo Skyba</predplace>
+      <ts>2013-04-08T17:27:50Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2022-02-11T21:51:54Z</ts>
+        <createdBy>Clyve Lomaz</createdBy>
+        <approvedBy>Babita Killingbeck</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Indonesia</place>
+      <predplace>servedIn Indonesia</predplace>
+      <end>2018-04-20T12:52:15Z</end>
+      <start>2016-01-03T09:03:19Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://comsenz.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://github.io</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://unblog.fr</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

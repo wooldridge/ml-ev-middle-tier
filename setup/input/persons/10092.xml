@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10092</personId>
+  <nameGroup>
+    <givenname>
+      <value>Sterne</value>
+    </givenname>
+    <surname>
+      <value>Troughton</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Troughton Sterne</value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2014-10-21T06:28:25Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-11-26T17:35:46Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2014-03-12T03:38:39Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>rkilvington0@disqus.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>920-723-0900</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>209-525-2195</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>tcudworth1@squarespace.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>278-560-9021</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>702-92-7197</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-07-14T23:53:27Z</ts>
+        <uploadedBy>emacek0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-06-17T11:56:24Z</ts>
+        <uploadedBy>aduchesne0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-09-15T20:06:48Z</ts>
+        <uploadedBy>ahouselee0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>0 Mayer Junction</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <postal>77025</postal>
+      <country>United States</country>
+      <latitude>29.6889</latitude>
+      <longitude>-95.4341</longitude>
+    </address>
+    <address>
+      <street>4529 Huxley Park</street>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20370</postal>
+      <country>United States</country>
+      <latitude>38.8933</latitude>
+      <longitude>-77.0146</longitude>
+    </address>
+    <address>
+      <street>6079 Rowland Center</street>
+      <city>El Paso</city>
+      <state>TX</state>
+      <postal>88535</postal>
+      <country>United States</country>
+      <latitude>31.6948</latitude>
+      <longitude>-106.3</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United Kingdom</country>
+      <name>University of Durham</name>
+      <city>Glasgow</city>
+      <state>SCT</state>
+      <postal>G4</postal>
+      <latitude>55.8709949</latitude>
+      <longitude>-4.2494388</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-04-14T05:08:37Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-05-11T05:02:27Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-04-11T09:21:33Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2018-09-17T07:01:54Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10014.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Cockill Torr</fullname>
+      <city>Nashville</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10043.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Brodbin Maitilde</fullname>
+      <city>Bradenton</city>
+      <state>FL</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-30T20:06:47Z</ts>
+    <user>stroughton2j</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-13T12:20:59Z</ts>
+    <user>stroughton2j</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>clidington0</handle>
+      <address>http://xing.com/eu/interdum/eu/tincidunt/in/leo.aspx</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>lblowin1</handle>
+      <address>http://msn.com/scelerisque/quam/turpis/adipiscing/lorem.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>cmccaw2</handle>
+      <address>http://wikispaces.com/venenatis/lacinia/aenean/sit/amet/justo.js</address>
+    </social>
+  </socials>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://1688.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://example.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://istockphoto.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Innotype</place>
+      <predplace>endedAt Innotype</predplace>
+      <ts>2018-04-12T12:02:35Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-06-12T16:28:49Z</ts>
+        <createdBy>Neils Vaneev</createdBy>
+        <approvedBy>Kelila Spatoni</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Rhyzio</place>
+      <predplace>transferredTo Rhyzio</predplace>
+      <ts>2014-09-25T07:53:47Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-03-27T13:07:16Z</ts>
+        <createdBy>Zaneta Coale</createdBy>
+        <approvedBy>Duky Hadigate</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Zava</place>
+      <predplace>transferredTo Zava</predplace>
+      <ts>2014-09-06T05:29:35Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-10-10T22:20:37Z</ts>
+        <createdBy>Roger Horsey</createdBy>
+        <approvedBy>Delcina Canet</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Poland</place>
+      <predplace>servedIn Poland</predplace>
+      <end>2017-09-13T13:36:52Z</end>
+      <start>2014-03-10T10:12:33Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://paginegialle.it</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://omniture.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://blog.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

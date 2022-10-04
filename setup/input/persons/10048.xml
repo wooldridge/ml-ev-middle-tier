@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10048</personId>
+  <nameGroup>
+    <givenname>
+      <value>Salomone</value>
+    </givenname>
+    <surname>
+      <value>Schwerin</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Schwerin Salomone</value>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-01-05T09:22:58Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>rblenkinsopp0@ox.ac.uk</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>aimm1@businessinsider.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>703-321-0946</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>772-703-2855</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>503-961-9315</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>tillingsworth2@chronoengine.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>310-47-6057</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2018-08-02T07:48:20Z</ts>
+        <uploadedBy>galeevy0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-05-26T20:24:29Z</ts>
+        <uploadedBy>wpiddletown0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>6 Southridge Court</street>
+      <city>Alhambra</city>
+      <state>CA</state>
+      <postal>91841</postal>
+      <country>United States</country>
+      <latitude>33.7866</latitude>
+      <longitude>-118.2987</longitude>
+    </address>
+    <address>
+      <street>3354 Nevada Lane</street>
+      <city>Racine</city>
+      <state>WI</state>
+      <postal>53405</postal>
+      <country>United States</country>
+      <latitude>42.7161</latitude>
+      <longitude>-87.8233</longitude>
+    </address>
+    <address>
+      <street>31 Amoth Plaza</street>
+      <city>Appleton</city>
+      <state>WI</state>
+      <postal>54915</postal>
+      <country>United States</country>
+      <latitude>44.2425</latitude>
+      <longitude>-88.3564</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United Kingdom</country>
+      <name>Trinity College Carmarthen</name>
+      <city>Leeds</city>
+      <state>ENG</state>
+      <postal>LS6</postal>
+      <latitude>53.8145</latitude>
+      <longitude>-1.56285</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-09-17T19:28:15Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-05-06T23:04:14Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Tamaulipas</name>
+      <city>Obrera</city>
+      <state>TAM</state>
+      <postal>88680</postal>
+      <latitude>19.4146406</latitude>
+      <longitude>-99.1395519</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-11-05T15:28:04Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-06-27T03:32:48Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-07-13T09:27:12Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2018-11-06T15:40:23Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Pantone Jedidiah</fullname>
+      <city>Brooklyn</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10067.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Wolfers Maritsa</fullname>
+      <city>Little Rock</city>
+      <state>AR</state>
+    </relation>
+    <relation>
+      <id>/person/10095.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Goffe Franny</fullname>
+      <city>Phoenix</city>
+      <state>AZ</state>
+    </relation>
+    <relation>
+      <id>/person/10005.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Rist Dolf</fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-20T23:22:20Z</ts>
+    <user>sschwerin1b</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-22T17:41:42Z</ts>
+    <user>sschwerin1b</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>moffield0</handle>
+      <address>https://homestead.com/at/nunc/commodo/placerat.js</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>gramelet1</handle>
+      <address>https://ustream.tv/ipsum/aliquam/non/mauris.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-09</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-02-26</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-22</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-25</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://mozilla.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://earthlink.net</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://zimbio.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Jaxworks</place>
+      <predplace>endedAt Jaxworks</predplace>
+      <ts>2014-08-19T18:31:53Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-12-25T09:17:59Z</ts>
+        <createdBy>Delila Riediger</createdBy>
+        <approvedBy>Hollis Gockeler</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Devpulse</place>
+      <predplace>startedAt Devpulse</predplace>
+      <ts>2012-01-17T18:10:18Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2022-01-06T02:19:21Z</ts>
+        <createdBy>Leeanne Lepick</createdBy>
+        <approvedBy>Wat Versey</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Norway</place>
+      <predplace>servedIn Norway</predplace>
+      <end>2017-02-24T13:35:19Z</end>
+      <start>2014-03-30T22:20:00Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://youtu.be</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://about.me</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://home.pl</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

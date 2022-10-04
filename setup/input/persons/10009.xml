@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10009</personId>
+  <nameGroup>
+    <givenname>
+      <value>Vincent</value>
+    </givenname>
+    <surname>
+      <value>Jedrachowicz</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Jedrachowicz Vincent</value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-07-05T00:40:58Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-04-06T19:43:48Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>bpunt0@illinois.edu</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>llowdes1@hc360.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>539-770-6466</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>422-600-7012</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>202-260-7751</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jhargroves2@macromedia.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>645-87-8305</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-07-26T01:07:10Z</ts>
+        <uploadedBy>sbrum0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-08-03T23:03:09Z</ts>
+        <uploadedBy>noxley0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-08-03T02:34:16Z</ts>
+        <uploadedBy>nkisby0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-12-03T23:37:35Z</ts>
+        <uploadedBy>gmackeig0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>87 6th Road</street>
+      <city>Midland</city>
+      <state>TX</state>
+      <postal>79710</postal>
+      <country>United States</country>
+      <latitude>31.8693</latitude>
+      <longitude>-102.0317</longitude>
+    </address>
+    <address>
+      <street>38 Sundown Terrace</street>
+      <city>Port Saint Lucie</city>
+      <state>FL</state>
+      <postal>34985</postal>
+      <country>United States</country>
+      <latitude>27.3822</latitude>
+      <longitude>-80.409</longitude>
+    </address>
+    <address>
+      <street>70 Thierer Pass</street>
+      <city>Montgomery</city>
+      <state>AL</state>
+      <postal>36104</postal>
+      <country>United States</country>
+      <latitude>32.373</latitude>
+      <longitude>-86.3081</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Cornell College</name>
+      <city>Danbury</city>
+      <state>CT</state>
+      <postal>06816</postal>
+      <latitude>41.4066243</latitude>
+      <longitude>-73.4077076</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-07-24T23:14:56Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-03-29T16:57:55Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-03-19T09:43:15Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2020-10-26T09:56:33Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10076.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Morfett Minnaminnie</fullname>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10092.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Troughton Sterne</fullname>
+      <city>Houston</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10048.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Schwerin Salomone</fullname>
+      <city>Alhambra</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10042.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Crinkley Guillemette</fullname>
+      <city>New Orleans</city>
+      <state>LA</state>
+    </relation>
+    <relation>
+      <id>/person/10075.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Wortt Jillayne</fullname>
+      <city>Denver</city>
+      <state>CO</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-27T02:48:48Z</ts>
+    <user>vjedrachowicz8</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-08T22:51:58Z</ts>
+    <user>vjedrachowicz8</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>https://ca.gov/ultrices/posuere/cubilia/curae/mauris.xml</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>bmattevi1</handle>
+      <address>http://npr.org/ipsum/ac/tellus.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-15</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-27</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-01-18</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-01-26</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://stumbleupon.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://springer.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://arizona.edu</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Realcube</place>
+      <predplace>movedTo Realcube</predplace>
+      <ts>2013-08-29T07:28:11Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-11-10T21:04:37Z</ts>
+        <createdBy>Mellisent Bodicum</createdBy>
+        <approvedBy>Caressa Weiner</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Linklinks</place>
+      <predplace>transferredTo Linklinks</predplace>
+      <ts>2018-05-08T06:22:19Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2022-02-06T10:01:09Z</ts>
+        <createdBy>Helsa Zoellner</createdBy>
+        <approvedBy>Benjamin O'Scully</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Tavu</place>
+      <predplace>movedTo Tavu</predplace>
+      <ts>2013-11-04T22:28:32Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2022-01-08T23:35:02Z</ts>
+        <createdBy>Sharity Ellerington</createdBy>
+        <approvedBy>Rana Mauchlen</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Midel</place>
+      <predplace>movedTo Midel</predplace>
+      <ts>2014-04-30T01:54:08Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-09-27T19:44:15Z</ts>
+        <createdBy>Putnam Alaway</createdBy>
+        <approvedBy>Walden Crowdson</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Peru</place>
+      <predplace>servedIn Peru</predplace>
+      <end>2017-02-21T05:30:01Z</end>
+      <start>2015-07-22T17:43:37Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://pcworld.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://gnu.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://epa.gov</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10046</personId>
+  <nameGroup>
+    <givenname>
+      <value>Daron</value>
+    </givenname>
+    <surname>
+      <value>Wolseley</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Wolseley Daron</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-08-02T05:15:04Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-07-15T18:06:50Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dbhatia0@ameblo.jp</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>742-537-8796</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>jlow0@businessweek.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>263-605-6970</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>671-630-9346</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>470-43-4180</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-10-09T12:04:13Z</ts>
+        <uploadedBy>crubinovitsch0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2014-10-10T13:37:36Z</ts>
+        <uploadedBy>mpetrou0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-12-11T19:43:25Z</ts>
+        <uploadedBy>hsegges0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>94 Luster Circle</street>
+      <city>New York City</city>
+      <state>NY</state>
+      <postal>10131</postal>
+      <country>United States</country>
+      <latitude>40.7808</latitude>
+      <longitude>-73.9772</longitude>
+    </address>
+    <address>
+      <street>6 East Park</street>
+      <city>New York City</city>
+      <state>NY</state>
+      <postal>10004</postal>
+      <country>United States</country>
+      <latitude>40.6964</latitude>
+      <longitude>-74.0253</longitude>
+    </address>
+    <address>
+      <street>15 Lerdahl Street</street>
+      <city>Louisville</city>
+      <state>KY</state>
+      <postal>40205</postal>
+      <country>United States</country>
+      <latitude>38.2222</latitude>
+      <longitude>-85.6885</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>University of Toronto</name>
+      <city>Oxford</city>
+      <state>NS</state>
+      <postal>K7A</postal>
+      <latitude>45.73345</latitude>
+      <longitude>-63.86542</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-09-21T14:36:09Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2017-02-25T16:57:49Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-08-18T23:54:20Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2019-01-18T19:57:44Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2020-04-24T21:53:30Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2012-12-04T22:41:57Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Patek Veronica</fullname>
+      <city>Milwaukee</city>
+      <state>WI</state>
+    </relation>
+    <relation>
+      <id>/person/10047.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Brunker Buffy</fullname>
+      <city>Midland</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Martyntsev Camile</fullname>
+      <city>Miami</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10054.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Evamy Odelia</fullname>
+      <city>Lansing</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Pantone Jedidiah</fullname>
+      <city>Brooklyn</city>
+      <state>NY</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-04T03:07:24Z</ts>
+    <user>dwolseley19</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-06T14:03:51Z</ts>
+    <user>dwolseley19</user>
+  </lastUpdated>
+  <socials/>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://sciencedirect.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://nyu.edu</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://geocities.jp</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Oyondu</place>
+      <predplace>startedAt Oyondu</predplace>
+      <ts>2013-11-10T13:40:23Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-08-21T19:53:10Z</ts>
+        <createdBy>Daria Candie</createdBy>
+        <approvedBy>Shayna Lancaster</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Dynava</place>
+      <predplace>movedTo Dynava</predplace>
+      <ts>2018-09-01T11:40:41Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-11-01T19:55:17Z</ts>
+        <createdBy>Clayton Yanyushkin</createdBy>
+        <approvedBy>Pancho Sigars</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Japan</place>
+      <predplace>servedIn Japan</predplace>
+      <end>2017-03-13T11:27:07Z</end>
+      <start>2016-02-27T01:12:15Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://google.es</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://diigo.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://un.org</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

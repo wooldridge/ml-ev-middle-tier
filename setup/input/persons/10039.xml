@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10039</personId>
+  <nameGroup>
+    <givenname>
+      <value>Selene</value>
+    </givenname>
+    <surname>
+      <value>Killelay</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Killelay Selene</value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2018-12-12T19:08:16Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-03-16T05:17:24Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-10-09T15:37:39Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>kharsnep0@prnewswire.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>gscreas1@ucsd.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bcossell2@wikipedia.org</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>574-303-7468</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>mjerrard0@freewebs.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>xsilversmid1@google.nl</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>kolenin2@time.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>296-76-3531</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-04-12T03:11:51Z</ts>
+        <uploadedBy>ksuart0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-12-06T05:30:36Z</ts>
+        <uploadedBy>dmcelrea0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>15114 Kingsford Road</street>
+      <city>Riverside</city>
+      <state>CA</state>
+      <postal>92513</postal>
+      <country>United States</country>
+      <latitude>33.7529</latitude>
+      <longitude>-116.0556</longitude>
+    </address>
+    <address>
+      <street>096 Northport Way</street>
+      <city>Jamaica</city>
+      <state>NY</state>
+      <postal>11447</postal>
+      <country>United States</country>
+      <latitude>40.6914</latitude>
+      <longitude>-73.8061</longitude>
+    </address>
+    <address>
+      <street>1 Tomscot Park</street>
+      <city>Tulsa</city>
+      <state>OK</state>
+      <postal>74170</postal>
+      <country>United States</country>
+      <latitude>36.1398</latitude>
+      <longitude>-96.0297</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United Kingdom</country>
+      <name>University of Glasgow</name>
+      <city>Buckland</city>
+      <state>ENG</state>
+      <postal>CT16</postal>
+      <latitude>51.1372058</latitude>
+      <longitude>1.2986666</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-09-14T16:40:47Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-11-28T05:55:34Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2019-04-20T21:07:25Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2019-03-11T04:34:18Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2010-09-17T17:40:39Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10020.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Lande Karalee</fullname>
+      <city>Nashville</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10052.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</imageSrc>
+      <fullname>Hunton Guillemette</fullname>
+      <city>Nashville</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10064.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</imageSrc>
+      <fullname>Hardaker Hort</fullname>
+      <city>Gastonia</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-09T05:20:22Z</ts>
+    <user>skillelay12</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-14T11:41:12Z</ts>
+    <user>skillelay12</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>ssachno0</handle>
+      <address>http://google.com.au/nisl/ut/volutpat/sapien/arcu.aspx</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>dwyndham1</handle>
+      <address>http://amazon.com/ut/at/dolor/quis/odio/consequat.html</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>rmarcu2</handle>
+      <address>http://shop-pro.jp/ac/enim/in/tempor/turpis/nec/euismod.jpg</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-02-15</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-04</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-05</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://ezinearticles.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://prlog.org</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://amazon.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Meetz</place>
+      <predplace>endedAt Meetz</predplace>
+      <ts>2017-02-12T09:27:25Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-26T19:25:36Z</ts>
+        <createdBy>Welsh Matyushkin</createdBy>
+        <approvedBy>Nancee Pennicott</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Youtags</place>
+      <predplace>movedTo Youtags</predplace>
+      <ts>2013-04-14T08:47:42Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-26T14:23:57Z</ts>
+        <createdBy>Alastair McAvey</createdBy>
+        <approvedBy>Constantia Lorden</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoovu</place>
+      <predplace>endedAt Zoovu</predplace>
+      <ts>2014-01-16T15:15:20Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-01-26T09:14:48Z</ts>
+        <createdBy>Marrissa Twells</createdBy>
+        <approvedBy>Henka Rean</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Mycat</place>
+      <predplace>movedTo Mycat</predplace>
+      <ts>2016-10-07T12:23:39Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2022-01-07T10:00:12Z</ts>
+        <createdBy>Niven Jeakins</createdBy>
+        <approvedBy>Bear Kleewein</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Dynabox</place>
+      <predplace>movedTo Dynabox</predplace>
+      <ts>2018-11-15T06:19:56Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-11-21T19:41:08Z</ts>
+        <createdBy>Mendy Laverick</createdBy>
+        <approvedBy>Fedora Roloff</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Bangladesh</place>
+      <predplace>servedIn Bangladesh</predplace>
+      <end>2017-07-27T21:28:06Z</end>
+      <start>2015-06-12T20:51:54Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://imdb.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://gnu.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://google.pl</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

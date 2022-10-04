@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10045</personId>
+  <nameGroup>
+    <givenname>
+      <value>Arie</value>
+    </givenname>
+    <surname>
+      <value>Hullah</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Hullah Arie</value>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-03-18T18:37:59Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-12-05T05:37:39Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-02-06T06:27:09Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>ktulleth0@imageshack.us</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>hsilcocks1@indiegogo.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>773-245-5115</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>165-300-7903</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>cmcdougall1@skyrock.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>160-421-2588</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>604-38-8231</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-04-06T05:51:33Z</ts>
+        <uploadedBy>jocollopy0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-01-08T04:04:51Z</ts>
+        <uploadedBy>tlarvent0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-08-14T09:07:56Z</ts>
+        <uploadedBy>dcaen0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>6 Helena Court</street>
+      <city>Shreveport</city>
+      <state>LA</state>
+      <postal>71137</postal>
+      <country>United States</country>
+      <latitude>32.6076</latitude>
+      <longitude>-93.7526</longitude>
+    </address>
+    <address>
+      <street>4578 Reindahl Pass</street>
+      <city>Columbia</city>
+      <state>MO</state>
+      <postal>65211</postal>
+      <country>United States</country>
+      <latitude>38.9033</latitude>
+      <longitude>-92.1022</longitude>
+    </address>
+    <address>
+      <street>1670 Union Avenue</street>
+      <city>Las Vegas</city>
+      <state>NV</state>
+      <postal>89125</postal>
+      <country>United States</country>
+      <latitude>36.2235</latitude>
+      <longitude>-115.2655</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Virginia Military Institute</name>
+      <city>Denver</city>
+      <state>CO</state>
+      <postal>80291</postal>
+      <latitude>39.74</latitude>
+      <longitude>-104.98</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-04-12T21:34:07Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-08-31T16:16:49Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2018-11-23T21:22:18Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-03-12T05:58:47Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10013.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
+      <fullname>Adelsberg Whitney</fullname>
+      <city>El Paso</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10048.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Schwerin Salomone</fullname>
+      <city>Alhambra</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10088.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Wearing Gareth</fullname>
+      <city>Northridge</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10074.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>Lucchi Linda</fullname>
+      <city>Portland</city>
+      <state>OR</state>
+    </relation>
+    <relation>
+      <id>/person/10065.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Tembridge Brock</fullname>
+      <city>San Jose</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-28T21:07:04Z</ts>
+    <user>ahullah18</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-04T13:53:03Z</ts>
+    <user>ahullah18</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-02</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-07</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-30</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://mediafire.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://cnbc.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://sitemeter.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Agivu</place>
+      <predplace>startedAt Agivu</predplace>
+      <ts>2018-02-12T14:38:32Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-04-17T02:06:03Z</ts>
+        <createdBy>Vince Boleyn</createdBy>
+        <approvedBy>Carolyne Tieman</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Tazzy</place>
+      <predplace>movedTo Tazzy</predplace>
+      <ts>2013-09-22T20:35:16Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-09-29T16:34:22Z</ts>
+        <createdBy>Marge Lunk</createdBy>
+        <approvedBy>Trista Elfleet</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Twitterbeat</place>
+      <predplace>movedTo Twitterbeat</predplace>
+      <ts>2017-03-27T06:10:29Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-11-10T01:52:17Z</ts>
+        <createdBy>Del McEntegart</createdBy>
+        <approvedBy>Hendrika Adolf</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tagpad</place>
+      <predplace>endedAt Tagpad</predplace>
+      <ts>2015-08-19T06:33:58Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-04-05T19:41:38Z</ts>
+        <createdBy>Lane Lampet</createdBy>
+        <approvedBy>Glennie Kitteringham</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Viva</place>
+      <predplace>transferredTo Viva</predplace>
+      <ts>2015-09-05T15:35:50Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-05-04T17:52:19Z</ts>
+        <createdBy>Woody Gentzsch</createdBy>
+        <approvedBy>Clerc Shoebridge</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Indonesia</place>
+      <predplace>servedIn Indonesia</predplace>
+      <end>2018-11-20T17:54:02Z</end>
+      <start>2015-01-31T04:58:24Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://a8.net</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://cargocollective.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://amazonaws.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

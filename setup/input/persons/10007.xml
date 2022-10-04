@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10007</personId>
+  <nameGroup>
+    <givenname>
+      <value>Riccardo</value>
+    </givenname>
+    <surname>
+      <value>Heims</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Heims Riccardo</value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-12-28T21:52:09Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>stzar0@buzzfeed.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>taleswell1@godaddy.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>234-511-0804</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>vcapelle0@hatena.ne.jp</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>cmcimmie1@telegraph.co.uk</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jbagshaw2@flavors.me</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>366-99-8533</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-12-20T23:13:22Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>542 Spenser Court</street>
+      <city>Saginaw</city>
+      <state>MI</state>
+      <postal>48604</postal>
+      <country>United States</country>
+      <latitude>43.4732</latitude>
+      <longitude>-83.9514</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>University of West Los Angeles</name>
+      <city>High Point</city>
+      <state>NC</state>
+      <postal>27264</postal>
+      <latitude>36.04</latitude>
+      <longitude>-80</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-04-24T04:10:27Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-07-17T05:08:59Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2018-03-06T20:37:37Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2021-06-16T14:26:06Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10028.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
+      <fullname>MacAndie Haywood</fullname>
+      <city>Omaha</city>
+      <state>NE</state>
+    </relation>
+    <relation>
+      <id>/person/10065.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Tembridge Brock</fullname>
+      <city>San Jose</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10002.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>Hainge Sharline</fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-11T17:33:55Z</ts>
+    <user>rheims6</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-09T02:58:02Z</ts>
+    <user>rheims6</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-25</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-01-28</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-02</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-17</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-01</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://umich.edu</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://aol.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://state.tx.us</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Vinder</place>
+      <predplace>startedAt Vinder</predplace>
+      <ts>2014-08-14T21:40:06Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-08-08T20:09:06Z</ts>
+        <createdBy>Shayne Durnian</createdBy>
+        <approvedBy>Bradly Wearne</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Podcat</place>
+      <predplace>endedAt Podcat</predplace>
+      <ts>2016-04-19T22:49:49Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-07-27T02:52:57Z</ts>
+        <createdBy>Gert Offer</createdBy>
+        <approvedBy>Michell Winckles</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Yotz</place>
+      <predplace>movedTo Yotz</predplace>
+      <ts>2016-04-17T02:28:22Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-01-15T20:47:55Z</ts>
+        <createdBy>Dacie Pennycock</createdBy>
+        <approvedBy>Madison Seedman</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>China</place>
+      <predplace>livedIn China</predplace>
+      <end>2018-09-19T19:29:15Z</end>
+      <start>2016-03-13T06:40:19Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://guardian.co.uk</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://ucoz.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://businessweek.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10017</personId>
+  <nameGroup>
+    <givenname>
+      <value>Nara</value>
+    </givenname>
+    <surname>
+      <value>Grimble</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Grimble Nara</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-02-01T22:32:45Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2014-12-27T19:22:55Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>esupple0@google.com.hk</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>328-635-8361</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>myeudall0@google.pl</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>dadderley1@ow.ly</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>453-937-1555</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>800-49-0670</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-04-10T02:52:09Z</ts>
+        <uploadedBy>iborrie0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>15135 Gale Pass</street>
+      <city>Oakland</city>
+      <state>CA</state>
+      <postal>94627</postal>
+      <country>United States</country>
+      <latitude>37.6802</latitude>
+      <longitude>-121.9215</longitude>
+    </address>
+    <address>
+      <street>266 Linden Road</street>
+      <city>Asheville</city>
+      <state>NC</state>
+      <postal>28805</postal>
+      <country>United States</country>
+      <latitude>35.6004</latitude>
+      <longitude>-82.4918</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>California College for Health Sciences</name>
+      <city>Little Rock</city>
+      <state>AR</state>
+      <postal>72215</postal>
+      <latitude>34.7576397</latitude>
+      <longitude>-92.324251</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-28T21:46:18Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2011-02-19T10:15:06Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10043.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
+      <fullname>Brodbin Maitilde</fullname>
+      <city>Bradenton</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10012.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Kenny Angel</fullname>
+      <city>Saint Paul</city>
+      <state>MN</state>
+    </relation>
+    <relation>
+      <id>/person/10071.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Beardsley Ira</fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10065.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Tembridge Brock</fullname>
+      <city>San Jose</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-18T15:59:48Z</ts>
+    <user>ngrimbleg</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-20T13:46:41Z</ts>
+    <user>ngrimbleg</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>tholehouse0</handle>
+      <address>https://livejournal.com/sapien.js</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>mkellart1</handle>
+      <address>https://google.es/in/magna.jsp</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>rpogg2</handle>
+      <address>http://economist.com/aliquam.jpg</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-14</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-14</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-09</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-01-27</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://sourceforge.net</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://google.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://is.gd</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Fivechat</place>
+      <predplace>movedTo Fivechat</predplace>
+      <ts>2018-02-16T16:01:09Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-06-20T00:16:01Z</ts>
+        <createdBy>Palmer Colkett</createdBy>
+        <approvedBy>Glad Allebone</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Minyx</place>
+      <predplace>startedAt Minyx</predplace>
+      <ts>2016-10-30T03:32:53Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-09-16T19:11:43Z</ts>
+        <createdBy>Emmy Sabben</createdBy>
+        <approvedBy>Ira Wintringham</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Feedfish</place>
+      <predplace>movedTo Feedfish</predplace>
+      <ts>2012-03-18T16:55:25Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-10-07T18:33:27Z</ts>
+        <createdBy>Aldo Hefforde</createdBy>
+        <approvedBy>Morty Dinsmore</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Tazz</place>
+      <predplace>startedAt Tazz</predplace>
+      <ts>2013-09-16T09:14:18Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2022-01-12T02:07:00Z</ts>
+        <createdBy>Ferne Vannar</createdBy>
+        <approvedBy>Natalie Poley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Brainverse</place>
+      <predplace>endedAt Brainverse</predplace>
+      <ts>2018-12-30T11:26:32Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-06-02T10:45:55Z</ts>
+        <createdBy>Jennica Shilston</createdBy>
+        <approvedBy>Tiphani Simonassi</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>France</place>
+      <predplace>visited France</predplace>
+      <end>2018-06-24T22:25:21Z</end>
+      <start>2015-08-01T18:29:26Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://rakuten.co.jp</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://sfgate.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://cloudflare.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

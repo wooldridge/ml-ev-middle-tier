@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10087</personId>
+  <nameGroup>
+    <givenname>
+      <value>Herbie</value>
+    </givenname>
+    <surname>
+      <value>Southby</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Southby Herbie</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-08-14T22:09:45Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-09-07T15:53:35Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-08-12T15:57:30Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>pbartholomaus0@ucla.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>dlineham1@trellian.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>840-220-7643</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>258-228-7111</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>624-209-9134</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>931-553-5710</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>264-04-0789</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2016-09-09T18:07:23Z</ts>
+        <uploadedBy>bfranc0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>302 Rigney Place</street>
+      <city>San Diego</city>
+      <state>CA</state>
+      <postal>92170</postal>
+      <country>United States</country>
+      <latitude>33.0169</latitude>
+      <longitude>-116.846</longitude>
+    </address>
+    <address>
+      <street>20230 Gina Place</street>
+      <city>Columbus</city>
+      <state>OH</state>
+      <postal>43231</postal>
+      <country>United States</country>
+      <latitude>40.081</latitude>
+      <longitude>-82.9383</longitude>
+    </address>
+    <address>
+      <street>15 Upham Alley</street>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <postal>80905</postal>
+      <country>United States</country>
+      <latitude>38.8377</latitude>
+      <longitude>-104.837</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Villanova University</name>
+      <city>Baton Rouge</city>
+      <state>LA</state>
+      <postal>70836</postal>
+      <latitude>30.3859766</latitude>
+      <longitude>-91.0759758</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-01-17T17:27:18Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-12-19T23:24:24Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-01-06T12:39:45Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2021-03-22T10:35:19Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2015-05-10T07:29:23Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10088.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Wearing Gareth</fullname>
+      <city>Northridge</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10065.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Tembridge Brock</fullname>
+      <city>San Jose</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10037.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>MacGillivray Mano</fullname>
+      <city>Boise</city>
+      <state>ID</state>
+    </relation>
+    <relation>
+      <id>/person/10060.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Humbey Lulita</fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10033.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Boal Ainslie</fullname>
+      <city>Winston Salem</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-12T02:09:09Z</ts>
+    <user>hsouthby2e</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-25T07:11:43Z</ts>
+    <user>hsouthby2e</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>kdyster0</handle>
+      <address>https://comcast.net/consequat/dui/nec/nisi/volutpat.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-17</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-24</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-02-15</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-20</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://dailymotion.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://engadget.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://wikimedia.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Oyoba</place>
+      <predplace>movedTo Oyoba</predplace>
+      <ts>2013-07-21T09:15:23Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-10-28T09:17:46Z</ts>
+        <createdBy>Prescott Cacacie</createdBy>
+        <approvedBy>Giles Burnham</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Divavu</place>
+      <predplace>startedAt Divavu</predplace>
+      <ts>2015-11-20T10:37:58Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-10-03T12:14:01Z</ts>
+        <createdBy>Renaud Asker</createdBy>
+        <approvedBy>Shayna Behrendsen</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Jabbersphere</place>
+      <predplace>startedAt Jabbersphere</predplace>
+      <ts>2018-11-11T08:52:55Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-12-17T05:19:20Z</ts>
+        <createdBy>Lanie Allston</createdBy>
+        <approvedBy>Pepita Fenty</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Gabspot</place>
+      <predplace>movedTo Gabspot</predplace>
+      <ts>2018-09-24T20:52:24Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-12-08T08:03:01Z</ts>
+        <createdBy>Ange Rasch</createdBy>
+        <approvedBy>Mendel Gow</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Snaptags</place>
+      <predplace>startedAt Snaptags</predplace>
+      <ts>2018-04-15T04:25:13Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-05-02T07:47:13Z</ts>
+        <createdBy>Valera Orth</createdBy>
+        <approvedBy>Robers Mechan</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>France</place>
+      <predplace>servedIn France</predplace>
+      <end>2018-03-24T04:59:28Z</end>
+      <start>2014-08-03T04:36:16Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://soup.io</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://weebly.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://wp.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

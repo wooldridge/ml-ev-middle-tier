@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10027</personId>
+  <nameGroup>
+    <givenname>
+      <value>Charyl</value>
+    </givenname>
+    <surname>
+      <value>Scalia</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Scalia Charyl</value>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-03-17T05:27:30Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-02-25T13:36:49Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-03-10T15:42:15Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>mwestover0@facebook.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>418-727-5247</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>umaccallester0@nasa.gov</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>565-307-7635</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>766-291-0593</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>326-82-9856</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2013-03-17T05:23:10Z</ts>
+        <uploadedBy>nvinick0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-10-22T01:03:08Z</ts>
+        <uploadedBy>slukasen0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>38 Talmadge Road</street>
+      <city>Marietta</city>
+      <state>GA</state>
+      <postal>30066</postal>
+      <country>United States</country>
+      <latitude>34.0378</latitude>
+      <longitude>-84.5038</longitude>
+    </address>
+    <address>
+      <street>29160 Blaine Pass</street>
+      <city>Charlotte</city>
+      <state>NC</state>
+      <postal>28289</postal>
+      <country>United States</country>
+      <latitude>35.26</latitude>
+      <longitude>-80.8042</longitude>
+    </address>
+    <address>
+      <street>41351 Norway Maple Trail</street>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <postal>30351</postal>
+      <country>United States</country>
+      <latitude>33.8444</latitude>
+      <longitude>-84.474</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Fort Lewis College</name>
+      <city>Vancouver</city>
+      <state>WA</state>
+      <postal>98664</postal>
+      <latitude>45.616422</latitude>
+      <longitude>-122.5804528</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-08-18T13:04:38Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-06-10T19:43:46Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-04-02T03:53:21Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2014-04-25T03:36:47Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10071.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
+      <fullname>Beardsley Ira</fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Waywell Kaleb</fullname>
+      <city>Miami</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10037.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</imageSrc>
+      <fullname>MacGillivray Mano</fullname>
+      <city>Boise</city>
+      <state>ID</state>
+    </relation>
+    <relation>
+      <id>/person/10010.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Comusso Ingelbert</fullname>
+      <city>Johnson City</city>
+      <state>TN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-17T11:30:01Z</ts>
+    <user>cscaliaq</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-04T16:46:08Z</ts>
+    <user>cscaliaq</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>fassard0</handle>
+      <address>http://latimes.com/non/velit/donec/diam/neque.html</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>saldcorne1</handle>
+      <address>http://bbb.org/a/suscipit/nulla/elit/ac/nulla/sed.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>lallcock2</handle>
+      <address>http://fda.gov/aliquam/erat/volutpat/in/congue.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-01-27</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://engadget.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://xing.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://dion.ne.jp</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Meembee</place>
+      <predplace>startedAt Meembee</predplace>
+      <ts>2019-07-08T14:36:47Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-25T00:16:01Z</ts>
+        <createdBy>Adorne Terris</createdBy>
+        <approvedBy>Lucina Arnao</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Kimia</place>
+      <predplace>transferredTo Kimia</predplace>
+      <ts>2012-01-29T01:45:55Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-03-01T11:07:03Z</ts>
+        <createdBy>Rog Shipman</createdBy>
+        <approvedBy>Husein Eke</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Eire</place>
+      <predplace>endedAt Eire</predplace>
+      <ts>2016-11-26T01:56:57Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-07-30T01:13:47Z</ts>
+        <createdBy>Xerxes Wicklin</createdBy>
+        <approvedBy>Duffie Massen</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Shufflebeat</place>
+      <predplace>transferredTo Shufflebeat</predplace>
+      <ts>2012-04-30T10:47:44Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-08-28T15:53:04Z</ts>
+        <createdBy>Lyndel Grinnikov</createdBy>
+        <approvedBy>Glori Blacksell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Divape</place>
+      <predplace>endedAt Divape</predplace>
+      <ts>2012-11-30T18:08:27Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-06-28T14:01:37Z</ts>
+        <createdBy>Sammy Quogan</createdBy>
+        <approvedBy>Wain Wasiel</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Canada</place>
+      <predplace>livedIn Canada</predplace>
+      <end>2017-12-23T11:21:34Z</end>
+      <start>2014-01-18T03:02:18Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://about.me</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://europa.eu</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://cnn.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

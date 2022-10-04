@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10070</personId>
+  <nameGroup>
+    <givenname>
+      <value>Francis</value>
+    </givenname>
+    <surname>
+      <value>Mertsching</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Mertsching Francis</value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2012-06-23T18:56:32Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-12-23T19:23:42Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-09-08T11:07:15Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>lcristofolo0@youtu.be</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>tcason1@rediff.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>wdemougeot2@google.com.au</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>326-876-3997</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>spull0@tamu.edu</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>745-589-3214</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jbadger2@upenn.edu</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>440-02-1204</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-05-14T23:36:06Z</ts>
+        <uploadedBy>dspencers0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-12-15T11:36:04Z</ts>
+        <uploadedBy>ntomczak0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>31 Mendota Avenue</street>
+      <city>Lexington</city>
+      <state>KY</state>
+      <postal>40505</postal>
+      <country>United States</country>
+      <latitude>38.0612</latitude>
+      <longitude>-84.4583</longitude>
+    </address>
+    <address>
+      <street>567 Prentice Park</street>
+      <city>Greenville</city>
+      <state>SC</state>
+      <postal>29615</postal>
+      <country>United States</country>
+      <latitude>34.8661</latitude>
+      <longitude>-82.3198</longitude>
+    </address>
+    <address>
+      <street>43 Sunnyside Alley</street>
+      <city>San Diego</city>
+      <state>CA</state>
+      <postal>92160</postal>
+      <country>United States</country>
+      <latitude>33.0169</latitude>
+      <longitude>-116.846</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Sterling College</name>
+      <city>Fort Wayne</city>
+      <state>IN</state>
+      <postal>46862</postal>
+      <latitude>41.07</latitude>
+      <longitude>-85.14</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-03-01T01:25:49Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-11-03T14:45:08Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Zacatecas</name>
+      <city>Cuauhtemoc</city>
+      <state>GRO</state>
+      <postal>40068</postal>
+      <latitude>18.3381615</latitude>
+      <longitude>-99.5485736</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-02-20T19:35:56Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2016-01-22T07:16:24Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10031.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
+      <fullname>Abbey Issi</fullname>
+      <city>Rochester</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Waywell Kaleb</fullname>
+      <city>Miami</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10019.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
+      <fullname>Basey Fredelia</fullname>
+      <city>Northridge</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10088.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
+      <fullname>Wearing Gareth</fullname>
+      <city>Northridge</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-07T13:04:43Z</ts>
+    <user>fmertsching1x</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-25T03:02:55Z</ts>
+    <user>fmertsching1x</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>https://exblog.jp/aliquet/pulvinar/sed/nisl/nunc/rhoncus/dui.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-02-10</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-02-07</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-02-27</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-22</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-01-06</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://jiathis.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://seattletimes.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://nydailynews.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Youopia</place>
+      <predplace>endedAt Youopia</predplace>
+      <ts>2014-10-13T01:02:08Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-12T11:08:38Z</ts>
+        <createdBy>Bobbie Wainwright</createdBy>
+        <approvedBy>Gerianne Bickerdicke</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Thoughtstorm</place>
+      <predplace>transferredTo Thoughtstorm</predplace>
+      <ts>2014-12-31T10:12:52Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-06T20:08:13Z</ts>
+        <createdBy>Georgie Love</createdBy>
+        <approvedBy>Ingrim Learmont</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Thoughtmix</place>
+      <predplace>movedTo Thoughtmix</predplace>
+      <ts>2018-07-24T18:29:58Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-11-01T17:51:39Z</ts>
+        <createdBy>Candide Hegg</createdBy>
+        <approvedBy>Grayce Codling</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Feedmix</place>
+      <predplace>endedAt Feedmix</predplace>
+      <ts>2016-04-28T18:44:08Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-04-02T18:49:56Z</ts>
+        <createdBy>Colan Blaza</createdBy>
+        <approvedBy>Andrew Mee</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Mozambique</place>
+      <predplace>servedIn Mozambique</predplace>
+      <end>2018-07-20T05:50:35Z</end>
+      <start>2014-04-02T05:03:08Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://youku.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://archive.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://jigsy.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

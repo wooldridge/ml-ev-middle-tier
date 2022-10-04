@@ -1,3 +1,4 @@
+const config = require('./config');
 const express = require('express');
 const { createProxyMiddleware, responseInterceptor } = require('http-proxy-middleware');
 const btoa = require('btoa');
@@ -8,7 +9,7 @@ const app = express();
 // Configure middle tier
 const targetScheme = "http";
 const targetHost = "localhost";
-const targetPort = 8000;
+const targetPort = 8570;
 const proxyPort = 7777;
 
 // http-proxy-middleware options, including MarkLogic backend target to MarkLogic
@@ -24,6 +25,7 @@ const proxy = createProxyMiddleware({
         );
         // Transform request body back from text
         const { body } = req;
+        console.log("body", body);
         if (body) {
             if (typeof body === 'object') {
                 proxyReq.write(JSON.stringify(body));
@@ -46,7 +48,7 @@ const proxy = createProxyMiddleware({
 });
 
 // Parse the JSON body
-app.use(bodyParser.text({ type: 'application/x-ndjson' }));
+app.use(bodyParser.text({ type: 'application/json' }));
 
 // Optionally do extra stuff before sending requests to backend,
 // for example verify access tokens
